@@ -679,7 +679,7 @@ ETC_20150317_000678	Stone-eating Kirmeleech	돌 파먹는 키르멜리치
 ETC_20150317_000679	Fire Jar Magburk	불항아리 매그버크				
 ETC_20150317_000680	Tempered Archon	달아오른 아콘				
 ETC_20150317_000681	Indomitable Kepa Chieftain	불굴의 케파치프틴				
-ETC_20150317_000682	Bizzare Velochard	기괴한 벨로차드				
+ETC_20150317_000682	Bizarre Velochard	기괴한 벨로차드				
 ETC_20150317_000683	Whirlwind Harpeia	돌개바람 하르피아				
 ETC_20150317_000684	Frantic Giant Wood Goblin	발악하는 자이언트 우드 고블린				
 ETC_20150317_000685	Deadborn of Steel	강철의 데드본				
@@ -1533,7 +1533,7 @@ ETC_20150317_001532	Cannot enter as the number of players exceeded.	인원이 �
 ETC_20150317_001533	Attempt to reconnect %02d times...	%02d회 재접속 시도 중...				
 ETC_20150317_001534	Your account has been blocked from entering the game due to specific reasons.{nl} Please send a ticket to Customer Service for details.	고객님께서는 특정 사유로 게임접속이 제한되었습니다{nl}자세한 사항은 홈페이지 내 고객센터->서비스 장애 신고함으로 문의해 주세요				
 ETC_20150317_001535	Your character has been blocked from entering the game due to specific reasons.{nl} Please send a ticket to Customer Service for details.	고객님의 캐릭터는 특정 사유로 게임접속이 제한되었습니다{nl}자세한 사항은 홈페이지 내 고객센터->서비스 장애 신고함으로 문의해 주세요				
-ETC_20150317_001536	You don't have enough of the {ItemName}.	{ItemName} 아이템이 부족합니다				
+ETC_20150317_001536	This action requires a {ItemName}.	{ItemName} 아이템이 부족합니다				
 ETC_20150317_001537	This place, please move to the herbivorous you will not be able to use {nl} another location	이 위치에는 초식을 사용할 수 없습니다{nl}다른 위치로 이동해 주세요				
 ETC_20150317_001538	{Auto_2} recovery will be completed after {Auto_1} seconds	{Auto_1}초 후에 {Auto_2}의 회복이 완료됩니다				
 ETC_20150317_001539	You cannot receive basic items because your inventory is full.	인벤토리가 꽉 찬 상태이므로 기본 아이템을 지급하지 않습니다				
@@ -5723,7 +5723,7 @@ ETC_20150317_005722	You will receive the defense and Pirizen from connection.	�
 ETC_20150317_005723	Defense and Prison are given to the linked members	연결된 객체들에게 방어력과 피리젠을 전달한다				
 ETC_20150317_005724	Soul Defense	소울디펜스				
 ETC_20150317_005725	All damage received will be redirected to your Summon instead.	소환수가 주인의 공격을 대신 맞아준다.				
-ETC_20150317_005726	Predicting an enemy's attack	적의 공격을 예측함.				
+ETC_20150317_005726	Predicting enemy attacks.	적의 공격을 예측함.				
 ETC_20150317_005727	Transform	변신				
 ETC_20150317_005728	Monster Transformation	몬스터로 변신함.				
 ETC_20150317_005729	Telepathy	텔레파스				
@@ -10561,10 +10561,10 @@ ETC_20150401_010562	Repairing	손질 중
 ETC_20150401_010563	Repairing Weapon	무기 손질 중				
 ETC_20150401_010564	Repairing Armor	방어구 손질 중				
 ETC_20150401_010565	Roasting Gem	젬 로스팅 중				
-ETC_20150401_010566	HP increases by {Value}% for {Time} minutes	{Time}분 동안 HP가 {Value}% 증가합니다.				
-ETC_20150401_010567	SP increases by {Value}% for {Time} minutes	{Time}분 동안 SP가 {Value}% 증가합니다.				
-ETC_20150401_010568	HP recovery time decreases by {Value} seconds for {Time} minutes	{Time}분 동안 HP회복시간이 {Value}초 감소합니다.				
-ETC_20150401_010569	SP recovery time decreases by {Value} seconds for {Time} minutes	{Time}분 동안 SP회복시간이 {Value}초 감소합니다.				
+ETC_20150401_010566	HP increases by {Value}% for {Time} minutes.	{Time}분 동안 HP가 {Value}% 증가합니다.				
+ETC_20150401_010567	SP increases by {Value}% for {Time} minutes.	{Time}분 동안 SP가 {Value}% 증가합니다.				
+ETC_20150401_010568	HP recovery time decreases by {Value} seconds for {Time} minutes.	{Time}분 동안 HP회복시간이 {Value}초 감소합니다.				
+ETC_20150401_010569	SP recovery time decreases by {Value} seconds for {Time} minutes.	{Time}분 동안 SP회복시간이 {Value}초 감소합니다.				
 ETC_20150401_010570	Click to use the title.	클릭 시 해당 칭호를 사용합니다.				
 ETC_20150401_010571	Collecting the Sweet Herb	스위트 허브 채집 중				
 ETC_20150401_010572	Arrived at the area where food spoils.	음식이 상한다는 지역에 들어 선 것 같습니다.	ETC_20150323_010147	It seems that you have entered a spot where food gets spoiled	음식이 상한다는 지역에 들어 선 것 같습니다	
@@ -12792,8 +12792,8 @@ ETC_20150714_012793	The villagers were identified as demons.{nl}Run away to the 
 ETC_20150714_012794	You've picked up a paper that was dropped on the ground.{nl}You can read it from your inventory.	바닥에 떨어진 종이를 주웠습니다{nl} 인벤토리에서 읽을 수 있습니다				
 ETC_20150714_012795	You've picked up a book that was dropped on the ground.{nl}You can read it from your inventory.	바닥에 떨어진 책을 주웠습니다{nl} 인벤토리에서 읽을 수 있습니다				
 ETC_20150714_012796	You've picked up a paper that was dropped on the ground.{nl}You can read it from your inventory.	바닥에 떨어진 종이를 주웠습니다{nl} 인벤토리에서 다시 읽을 수 있습니다				
-ETC_20150714_012797	He pulled it out.	님께서 꺼내가셨습니다.				
-ETC_20150714_012798	He saved it.	님께서 저장하셨습니다.				
+ETC_20150714_012797	 withdrew an item.	님께서 꺼내가셨습니다.				
+ETC_20150714_012798	 deposited an item.	님께서 저장하셨습니다.				
 ETC_20150714_012799	You are far away from the distribution table. Try from a closer location to eat the food.	배식대와 거리가 멉니다. 음식을 먹으려면 가까이에서 시도하세요.				
 ETC_20150714_012800	Quest Tool File Copy	퀘스트 툴 파일 복사				
 ETC_20150714_012801	Quest experimental item for hunting	사냥 시 퀘스트 시작 아이템				
@@ -14477,8 +14477,8 @@ ETC_20150918_014478	Recipe - Karacha Dagger	제작서-카라챠 대거
 ETC_20150918_014479	Recipe - Venom	제작서-베놈				
 ETC_20150918_014480	You can only construct one Base Camp. Do you want to create a new one by deleting the previous one?	하나의 베이스 캠프만 건설 가능합니다. 기존걸 지우고 새로 생성하시겠습니까?	ETC_20150406_010754	Only one base camp can be set up.	하나의 베이스 캠프만 건설 가능합니다.	
 ETC_20150918_014481	Please select a starting city.	시작 도시를 선택해주세요.				
-ETC_20150918_014482	equipment repaired by you	 님의 장비를 손질하였습니다				
-ETC_20150918_014483	equipment repaired by you	 님의 장비를 수리하였습니다				
+ETC_20150918_014482	's equipment was refined	 님의 장비를 손질하였습니다				
+ETC_20150918_014483	's equipment was repaired	 님의 장비를 수리하였습니다				
 ETC_20150918_014484	Chapel	성당				
 ETC_20150918_014485	That monster looks ready to explode!	몬스터가 폭발하려고 합니다!				
 ETC_20150918_014486	Get more leftover food from Isblyskes Square!	이쉬플라쉬 광장의 식량더미에서 음식 찌꺼기를 더 가져오세요!				
@@ -22309,7 +22309,7 @@ ETC_20160718_022303	You cannot use it on an item that has maximum Potential.	최
 ETC_20160718_022304	This item has not been transcended.	초월되지 않은 아이템입니다.				
 ETC_20160718_022305	This item cannot be dismantled.	초월 분해가 불가능한 아이템입니다.				
 ETC_20160718_022306	This item cannot have its transcendental effect removed.	초월 제거가 불가능한 아이템입니다.				
-ETC_20160718_022307	You must place your equipment {nl} on the circle above {nl} in order to attempt to transcend.	초월 시도를 하시려면{nl} 먼저 위의 원 안에 장비를  {nl}올려둬야 합니다.				
+ETC_20160718_022307	You must place your equipment in the circle above to attempt transcendence.	초월 시도를 하시려면{nl} 먼저 위의 원 안에 장비를  {nl}올려둬야 합니다.				
 ETC_20160718_022308	Right-click the equipment {nl} to undo and cancel the process.	취소 하시려면 위의 장비를 {nl}오른쪽 클릭으로 해제해주세요.				
 ETC_20160718_022309	You cannot repurchase colors.	이미 습득한 색은 재 구입하실 수 없습니다.				
 ETC_20160718_022310	This item has expired.	사용기한이 지난 아이템 입니다.				
@@ -22677,12 +22677,12 @@ ETC_20160723_022671	Geologist	지리학자
 ETC_20160723_022672	20 TP [Event]	20 TP[증정용]				
 ETC_20160723_022673	Obtain 20 TP once used.	사용 시 20 TP를 획득합니다.				
 ETC_20160723_022674	That's really impressive, you dealing with the demons like that!	마족들을 해치우다니, 대단하십니다!				
-ETC_20160723_022675	Right-click the equipment to undo and cancel the process.	취소 하시려면 위의 장비를 오른쪽 클릭으로 해제해주세요.	ETC_20160718_022308	Right-click the equipment {nl} to undo and cancel the process.	취소 하시려면 위의 장비를 {nl}오른쪽 클릭으로 해제해주세요.	
+ETC_20160723_022675	Right-click the equipment to undo & cancel the process.	취소 하시려면 위의 장비를 오른쪽 클릭으로 해제해주세요.	ETC_20160718_022308	Right-click the equipment {nl} to undo and cancel the process.	취소 하시려면 위의 장비를 {nl}오른쪽 클릭으로 해제해주세요.	
 ETC_20160723_022676	You can't add any more ingredients.	재료를 더 추가할 수 없습니다.				
 ETC_20160723_022677	You do not have any more ingredients to add.	더 추가하기에는 재료가 부족합니다.				
-ETC_20160723_022678	requires {color}{num} more	가 되려면 {color}{num}개				
-ETC_20160723_022679	in.	를 넣으세요.				
-ETC_20160723_022680	{font}{#00D8FF}Shift{/}{font}+ {#00D8FF}Click{/}{font} : 5{/}{nl}{font}{#00D8FF}Alt{/}{font}+ {#00D8FF}Click{/}{font} : At once{/}	{font}{#00D8FF}Shift키{/}{font}+ {#00D8FF}클릭{/}{font} : 5개씩{/}{nl}{font}{#00D8FF}Alt키{/}{font}+ {#00D8FF}클릭{/}{font} : 모두 한번에{/}  				
+ETC_20160723_022678	  requires{color}{num}	가 되려면 {color}{num}개				
+ETC_20160723_022679	 total.	를 넣으세요.				
+ETC_20160723_022680	{font}{#00D8FF}Shift{/}{font} + {#00D8FF}Click{/}{font}: Add 5{/}{nl}{font}{#00D8FF}Alt{/}{font} + {#00D8FF}Click{/}{font}: All at once{/}	{font}{#00D8FF}Shift키{/}{font}+ {#00D8FF}클릭{/}{font} : 5개씩{/}{nl}{font}{#00D8FF}Alt키{/}{font}+ {#00D8FF}클릭{/}{font} : 모두 한번에{/}  				
 ETC_20160723_022681	Check the Item	아이템 확인				
 ETC_20160723_022682	You already possess such an item.{nl}Do you still wish to use it?{nl}Item in your possession	보유하고 있는 아이템이 있습니다.{nl}그래도 사용하시겠습니까?{nl}보유하고 있는 아이템				
 ETC_20160723_022683	There are no suitable targets nearby.	주변에 대상이 없습니다.				
@@ -22929,7 +22929,7 @@ ETC_20160723_022923	You cannot participate without being in a guild.	소속된 �
 ETC_20160723_022924	Do you wish to enter an ongoing battle?	진행중인 대전에 입장하시겠습니까?				
 ETC_20160723_022925	{@st59}Increases Physical and Critical Attack, Block Penetration and Maximum Carry Weight{/}	{@st59}물리 공격력, 치명타 공격력 증가, 블럭 관통 증가, 최대 소지량 증가{/}				
 ETC_20160723_022926	You either don't have a socket or using all sockets	소켓없거나 전부 사용 중입니다	ETC_20150804_014181	You either don't have a socket or using all of them	소켓없거나 전부 사용 중이다	
-ETC_20160723_022927	is required.	가 필요합니다.				
+ETC_20160723_022927	 is required.	가 필요합니다.				
 ETC_20160723_022928	The Token matches	토큰 일치	ETC_20160425_021756	Token Enabled	토큰 사용	
 ETC_20160723_022929	The Token does not match	토큰 불일치	ETC_20160425_021757	Token Disabled	토큰 미사용	
 ETC_20160723_022930	Returning the Expensive-looking Box	고급스런 상자 되찾아 주기				
@@ -23309,8 +23309,8 @@ ETC_20160811_023303	[{TYPE}]{WHO} has logged in.	[{TYPE}]{WHO}님이 접속했�
 ETC_20160811_023304	[{TYPE}]{WHO} has logged out.	[{TYPE}]{WHO}님이 접속을 종료했습니다.				
 ETC_20160811_023305	Item not eligible for Blessed Gem extraction.	축복석 추출가 불가능한 아이템입니다.	ETC_20160718_022305	This item cannot be dismantled.	초월 분해가 불가능한 아이템입니다.	
 ETC_20160811_023306	Item not eligible for item extraction.	아이템 추출가 불가능한 아이템입니다.	ETC_20160718_022306	This item cannot have its transcendental effect removed.	초월 제거가 불가능한 아이템입니다.	
-ETC_20160811_023307	To extract Blessed Gems, you need to place the item{nl}on the circle above. Extracting the gems out of a transcended item will return the gems and eliminate the item.	축복석 추출을 하시려면 먼저 위의 원 안에 {nl}장비를 올려둬야 합니다. 축복석 추출은 초월 아이템에서 축복석을 추출하고 아이템이 제거됩니다.				
-ETC_20160811_023308	To extract an item, you need to place it{nl}on the circle above. Extracting a transcended item will return the item to its original form and remove the transcendental effects.	아이템 추출을 하시려면 먼저 위의 원 안에 {nl}장비를 올려둬야 합니다. 아이템 추출은 초월 아이템에서 아이템을 추출하고 초월효과는 제거됩니다.				
+ETC_20160811_023307	To extract Blessed Gems, place the item in the circle above. Extracting the gems out of a transcended item will return the gems and eliminate the item.	축복석 추출을 하시려면 먼저 위의 원 안에 {nl}장비를 올려둬야 합니다. 축복석 추출은 초월 아이템에서 축복석을 추출하고 아이템이 제거됩니다.				
+ETC_20160811_023308	To extract an item, place it in the circle above. Extracting a transcended item will return the item to its original form and remove the transcendental effects.	아이템 추출을 하시려면 먼저 위의 원 안에 {nl}장비를 올려둬야 합니다. 아이템 추출은 초월 아이템에서 아이템을 추출하고 초월효과는 제거됩니다.				
 ETC_20160811_023309	Item will be consumed upon changing name.	이름을 변경하면 아이템이 소모 됩니다.				
 ETC_20160811_023310	You already obtained this color.	이미 가지고 있는 색 입니다.				
 ETC_20160811_023311	Appearance must correspond to item of the same type.	같은 종류의 장비 아이템으로만 외형 선택이 가능합니다.				
@@ -25422,8 +25422,8 @@ ETC_20161005_025416	You are not the right class for this equipment.	착용 할 �
 ETC_20161005_025417	You cannot change your equipment before picking up a thrown item.	장비를 줍기 전엔 장비 변경이 불가능 합니다.	ETC_20150317_001653	You cannot change your equipment before picking up a thrown item.	던진 장비를 줍기 전엔 장비 변경이 불가능 합니다.	
 ETC_20161005_025418	Your character's level cannot be higher than 280 in the Seasonal Server.	시즌 서버에서는 280 레벨 이상으로 올릴 수 없습니다.				
 ETC_20161005_025419	You are not the right gender to equip this.	착용할 수 있는 성별이 아닙니다.				
-ETC_20161005_025420	AoE Attack Ratio is increased by {Value} for {Time} minutes.	{Time}분 동안 광역 공격 비율이 {Value} 증가합니다.				
-ETC_20161005_025421	AoE Defense Ratio is increased by {Value} for {Time} minutes.	{Time}분 동안 광역 방어 비율이 {Value} 증가합니다.				
+ETC_20161005_025420	AoE Attack Ratio increases by {Value} for {Time} minutes.	{Time}분 동안 광역 공격 비율이 {Value} 증가합니다.				
+ETC_20161005_025421	AoE Defense Ratio increases by {Value} for {Time} minutes.	{Time}분 동안 광역 방어 비율이 {Value} 증가합니다.				
 ETC_20161005_025422	Unable to purchase	구매 불가				
 ETC_20161005_025423	{#FF0000} The package and all included items are untradable.{/}	{#FF0000}※ 패키지 포함 구성물은 모두 거래가 불가능합니다.{/}				
 ETC_20161005_025424	{#0054FF} The package and all included items are tradable.{/}	{#0054FF}※ 패키지 포함 구성물은 모두 거래가 가능합니다.{/}				
@@ -26082,7 +26082,7 @@ ETC_20161214_026076	Solmiki Leather Set	솔미키 가죽 세트
 ETC_20161214_026077	Critical Attack {img green_up_arrow 16 16}225 Increase{nl}                         Accuracy {img green_up_arrow 16 16}100 Increase	치명타 공격력 {img green_up_arrow 16 16}225 증가{nl}                         명중 {img green_up_arrow 16 16}100 증가				
 ETC_20161214_026078	Evasion {img green_up_arrow 16 16}48{nl}                         Critical Rate {img green_up_arrow 16 16}72	회피 {img green_up_arrow 16 16}48{nl}                         치명타 발생 {img green_up_arrow 16 16}72				
 ETC_20161214_026079	Physical Attack {img green_up_arrow 16 16}818	물리 공격력 {img green_up_arrow 16 16}818				
-ETC_20161214_026080	Max. HP {img green_up_arrow 16 16}3942 Increase	최대 HP {img green_up_arrow 16 16}3942 증가				
+ETC_20161214_026080	HP {img green_up_arrow 16 16}3942	최대 HP {img green_up_arrow 16 16}3942 증가				
 ETC_20161214_026081	Physical Attack {img green_up_arrow 16 16}201{nl}                         5% chance of HP recovery for 5 seconds when attacked by a Devil-type enemy	물리 방어력 {img green_up_arrow 16 16}201{nl}                         악마형 대상에게 피격 시, 5% 확률로 5초동안 체력 회복				
 ETC_20161214_026082	Magic Resistance {img green_up_arrow 16 16}247{nl}                         Physical Attack {img green_up_arrow 16 16}571	마법 방어력 {img green_up_arrow 16 16}247{nl}                         물리 공격력 {img green_up_arrow 16 16}571				
 ETC_20161214_026083	Instance Dungeon Multiply Max Count	인던 배수권 사용 맥스 카운트				
@@ -27786,7 +27786,7 @@ ETC_20170420_027780	Defeat a Monster of a Level Equal or Superior to Yours With 
 ETC_20170420_027781	Additional Dark Attack {img green_up_arrow 16 16} 30	암흑 추가 대미지 {img green_up_arrow 16 16}30 증가	ETC_20150918_014354	Dark Property Attack {img green_up_arrow 16 16} 30	암흑 속성 공격력 {img green_up_arrow 16 16}30 증가	
 ETC_20170420_027782	HP Recovery {img green_up_arrow 16 16} 16	HP 회복 {img green_up_arrow 16 16}16 증가	ETC_20150918_014358	HP Recovery {img green_up_arrow 16 16} 16	HP 회복 {img green_up_arrow 16 16}16	
 ETC_20170420_027783	All Stats {img green_up_arrow 16 16} 1	모든 스탯 {img green_up_arrow 16 16}1 증가	ETC_20150918_014359	All Stats {img green_up_arrow 16 16} 1	모든 스탯 {img green_up_arrow 16 16}1	
-ETC_20170420_027784	Adds {img green_up_arrow 16 16} 12 Earth property damage to basic attacks	기본 공격 시 땅 속성 공격 {img green_up_arrow 16 16}12 추가	ETC_20150918_014360	Earth Property Additional Damage {img green_up_arrow 16 16} 12	땅 속성 추가 대미지 {img green_up_arrow 16 16}12	
+ETC_20170420_027784	Adds a {img green_up_arrow 16 16}12 Earth property attack to basic attacks	기본 공격 시 땅 속성 공격 {img green_up_arrow 16 16}12 추가	ETC_20150918_014360	Earth Property Additional Damage {img green_up_arrow 16 16} 12	땅 속성 추가 대미지 {img green_up_arrow 16 16}12	
 ETC_20170420_027785	Fire Property Resistance {img green_up_arrow 16 16} 16	불 속성 저항력 {img green_up_arrow 16 16}16 증가				
 ETC_20170420_027786	Attack against Devil-type Targets {img green_up_arrow 16 16} 6	악마형 대상 공격력 {img green_up_arrow 16 16}6 증가	ETC_20150918_014362	Attack against Devil-type Targets {img green_up_arrow 16 16} 6	악마형 대상 공격력 {img green_up_arrow 16 16}6	
 ETC_20170420_027787	Attack against Devil-type Targets {img green_up_arrow 16 16} 8	악마형 대상 공격력 {img green_up_arrow 16 16}8 증가	ETC_20150918_014363	Attack against Devil-type Targets {img green_up_arrow 16 16} 8	악마형 대상 공격력 {img green_up_arrow 16 16}8	
@@ -27798,18 +27798,18 @@ ETC_20170420_027792	When receiving Earth property attacks{nl}                   
 ETC_20170420_027793	SPR {img green_up_arrow 16 16} 6	정신 {img green_up_arrow 16 16}6 증가				
 ETC_20170420_027794	1% chance of recovering 200 SP for 5 seconds when attacked by a Devil-type enemy	악마형 대상에게 피격 시 1% 확률로 5초동안 SP 200회복				
 ETC_20170420_027795	When attacking an enemy from behind with Backstab{nl}                         {img green_up_arrow 16 16}150% attack increase{nl}                         evasion {img red_down_arrow 16 16}188 decrease	적 뒤에서 백스텝 사용 시{nl}                         {img green_up_arrow 16 16}150% 공격력 추가{nl}                         회피 {img red_down_arrow 16 16}188 감소	ETC_20151224_018654	Increases [Backstab] damage by 3x when attacking an enemy from behind{nl}Evasion {img red_down_arrow 16 16} 188	적 뒤에서 공격 시 백스텝 공격력 3배 증가{nl}회피 {img red_down_arrow 16 16}188 감소	
-ETC_20170420_027796	Activates the [Porapore] buff when using physical attacks{nl}                         Lasts for 10 seconds when reaching 100 stacks of the [Porapore] buff{nl}                         Additional Holy and Darkness property damage{nl}	물리 공격 시 8초간 포라포레 버프 효과{nl}                         포라포레 버프 100중첩 시 10초 동안{nl}                         빛, 어둠 속성 추가 대미지을{nl}                         자신의 마법 방어력의 {img green_up_arrow 16 16}8%만큼 증가	ETC_20161214_026070	{img green_up_arrow 16 16} 6 magic defense, {img red_down_arrow 16 16} 6 physical defense for 30 seconds with every basic and physical attack{nl}Increases Holy and Dark property attack equal to 7.5% magic defense for 10 seconds when stacked 20 times	기본 공격, [물리] 공격 시마다 8초간 포라포레 버프가 걸립니다.{nl}버프 100중첩 시, 10초간 자신의 마법방어력의 8%만큼 빛, 어둠 속성 공격력 증가	
+ETC_20170420_027796	Activates the stacking [Porapore]{nl}                         buff for 8 seconds when using{nl}                         physical attacks. Upon reaching{nl}                         100 stacks, provides additional Holy{nl}                         and Darkness property damage equal{nl}                         to {img green_up_arrow 16 16}8% of your Magic Defense{nl}                         for 10 seconds.	물리 공격 시 8초간 포라포레 버프 효과{nl}                         포라포레 버프 100중첩 시 10초 동안{nl}                         빛, 어둠 속성 추가 대미지을{nl}                         자신의 마법 방어력의 {img green_up_arrow 16 16}8%만큼 증가	ETC_20161214_026070	{img green_up_arrow 16 16} 6 magic defense, {img red_down_arrow 16 16} 6 physical defense for 30 seconds with every basic and physical attack{nl}Increases Holy and Dark property attack equal to 7.5% magic defense for 10 seconds when stacked 20 times	기본 공격, [물리] 공격 시마다 8초간 포라포레 버프가 걸립니다.{nl}버프 100중첩 시, 10초간 자신의 마법방어력의 8%만큼 빛, 어둠 속성 공격력 증가	
 ETC_20170420_027797	Ice Property Additional Damage {img green_up_arrow 16 16} 12	얼음 속성 추가 대미지 {img green_up_arrow 16 16}12 증가				
 ETC_20170420_027798	Ice Property Additional Damage {img green_up_arrow 16 16} 26	얼음 속성 추가 대미지 {img green_up_arrow 16 16}26 증가				
 ETC_20170420_027799	Earth Property Additional Damage {img green_up_arrow 16 16} 42	땅 속성 추가 대미지 {img green_up_arrow 16 16}42 증가				
 ETC_20170420_027800	HP Recovery {img green_up_arrow 16 16}240	HP 회복력 {img green_up_arrow 16 16}240 증가	ETC_20161005_025341	HP Recovery {img green_up_arrow 16 16}240	HP 회복 {img green_up_arrow 16 16}240	
 ETC_20170420_027801	All Stats {img green_up_arrow 16 16}6	모든 스탯 {img green_up_arrow 16 16}6 증가	ETC_20161005_025342	All Stats {img green_up_arrow 16 16}6	모든 스탯 {img green_up_arrow 16 16}6	
-ETC_20170420_027802	Adds {img green_up_arrow 16 16}110 Frost property attack to basic attacks{nl}                         Increases STR and SPR by {img green_up_arrow 16 16}12	기본 공격 시 냉기 속성 공격{img green_up_arrow 16 16}110 추가{nl}                         힘, 정신 스탯 {img green_up_arrow 16 16}12 증가	ETC_20161005_025343	Additional Frost Attribute Damage  {img green_up_arrow 16 16}110 {nl} STR, SPR {img green_up_arrow 16 16}12	냉기 속성 추가 대미지 {img green_up_arrow 16 16}110 {nl} 힘, 정신 스탯 {img green_up_arrow 16 16}12	
+ETC_20170420_027802	Adds a {img green_up_arrow 16 16}110 Frost property attack to basic attacks{nl}                         Increases STR and SPR by {img green_up_arrow 16 16}12	기본 공격 시 냉기 속성 공격{img green_up_arrow 16 16}110 추가{nl}                         힘, 정신 스탯 {img green_up_arrow 16 16}12 증가	ETC_20161005_025343	Additional Frost Attribute Damage  {img green_up_arrow 16 16}110 {nl} STR, SPR {img green_up_arrow 16 16}12	냉기 속성 추가 대미지 {img green_up_arrow 16 16}110 {nl} 힘, 정신 스탯 {img green_up_arrow 16 16}12	
 ETC_20170420_027803	All Stats {img green_up_arrow 16 16}25	모든 스탯 {img green_up_arrow 16 16}25 증가				
 ETC_20170420_027804	Magic Attack {img green_up_arrow 16 16}571{nl}                         Magic Amplification {img green_up_arrow 16 16}69	마법 공격력 {img green_up_arrow 16 16}571 증가{nl}                         마법증폭 {img green_up_arrow 16 16}69 증가				
 ETC_20170420_027805	Evasion {img green_up_arrow 16 16}48{nl}                         Critical Rate {img green_up_arrow 16 16}72	회피 {img green_up_arrow 16 16}48 증가{nl}                         치명타 발생 {img green_up_arrow 16 16}72 증가				
 ETC_20170420_027806	Physical Attack {img green_up_arrow 16 16}818	물리 공격력 {img green_up_arrow 16 16}818 증가				
-ETC_20170420_027807	Increases physical defense by {img green_up_arrow 16 16}201{nl}                         When being attacked by Devil-type{nl}                         enemies 5% chance of recovering 2% of your max HP every second for 5 seconds{nl}                         (Cooldown of 10 seconds)	물리 방어력 {img green_up_arrow 16 16}201 증가{nl}                         악마형 대상에게 피격 시{nl}                         5% 확률로 5초간 1초당{nl}                         자신의 최대 체력의{nl}                         2% 만큼 체력 회복{nl}                         (재사용 대기시간 10초)				
+ETC_20170420_027807	Increases physical defense by {img green_up_arrow 16 16}201{nl}                         When being attacked by Devil-type{nl}                         enemies 5% chance of recovering 2%{nl}                         of your max HP every second for 5{nl}                         seconds{nl}                         (Cooldown of 10 seconds)	물리 방어력 {img green_up_arrow 16 16}201 증가{nl}                         악마형 대상에게 피격 시{nl}                         5% 확률로 5초간 1초당{nl}                         자신의 최대 체력의{nl}                         2% 만큼 체력 회복{nl}                         (재사용 대기시간 10초)				
 ETC_20170420_027808	Magic Defense {img green_up_arrow 16 16}247{nl}                         Physical Attack {img green_up_arrow 16 16}571	마법 방어력 {img green_up_arrow 16 16}247 증가{nl}                         물리 공격력 {img green_up_arrow 16 16}571 증가				
 ETC_20170420_027809	Physical Defense{img green_up_arrow 16 16}50{nl}                         Magic Defense{img green_up_arrow 16 16}50	물리 방어력 {img green_up_arrow 16 16}50 증가{nl}                         마법 방어력{img green_up_arrow 16 16}50 증가	ETC_20170303_026439	Physical Defense {img green_up_arrow 16 16}50{nl}                         Magic Defense{img green_up_arrow 16 16}50	물리 방어력 {img green_up_arrow 16 16}50{nl}                         마법 방어력{img green_up_arrow 16 16}50	
 ETC_20170420_027810	Increases attack on Large enemies by {img green_up_arrow 16 16}200{nl}                         Increases AoE attack ratio by{img green_up_arrow 16 16}1	대형 대상 공격력 {img green_up_arrow 16 16}200 증가{nl}                         광역 공격 비율{img green_up_arrow 16 16}1 증가	ETC_20170303_026440	Large Type Attack {img green_up_arrow 16 16}200{nl}                         AoE Attack ratio{img green_up_arrow 16 16}1	대형 대상 공격력 {img green_up_arrow 16 16}200{nl}                         광역 공격 비율{img green_up_arrow 16 16}1	
@@ -27960,186 +27960,186 @@ ETC_20170605_027954	{nl}click the ESC key to cancel.	 {nl}ESC 키를 클릭하�
 ETC_20170609_027955	Receive Invitation	청첩장 받기				
 ETC_20170609_027956	Check Remaining Invitations	남은 청첩장 확인				
 ETC_20170609_027957	You have {WEDDINGCOUNT} invitations left to deliver.	앞으로 {WEDDINGCOUNT}명에게 청첩장을 건네주어야 합니다.				
-ETC_20170615_027958	?٫ޜ??Ř 관???ūŘ	트랜잭션 관련 오류				
+ETC_20170615_027958	?٫???Ř 관???ūŘ	트랜잭션 관련 오류				
 ETC_20170615_027959	DPK ?ѫ߬	DPK 에러				
-ETC_20170615_027960	?ɬʤ?լǄ ?٫ʻ???Ŭ٘	패스엔진 잘못된 위치				
-ETC_20170615_027961	?ҫ]?٬? ?ˬ՘???ѫ߬코드	등록되지 않았던 에러코드				
-ETC_20170615_027962	findShortestPath ?ų̆?٬??֫ˈ?? 배경???문의?լü?٬ڔ.	findShortestPath 실패하였습니다. 배경팀에 문의해주세요.				
-ETC_20170615_027963	컨텐츠기???ŭl립트?ѬĜ ?ѫ߬가 발생?٬??֫ˈ?? ?ѫ߬ 메시지륿?֬ݸ?٬ĸ??	컨텐츠기획 스크립트에서 에러가 발생하였습니다. 에러 메시지를 확인하세요.				
-ETC_20170615_027964	?ݬʤ?ݪذ???ŭl립트?ѬĜ ?ѫ߬가 발생?٬??֫ˈ?? ?ѫ߬ 메시지륿?֬ݸ?٬ĸ??	시스템기획 스크립트에서 에러가 발생하였습니다. 에러 메시지를 확인하세요.				
-ETC_20170615_027965	TakeDamage?ѬĜ ???ū?Ŭא 줿???ɫʔ ?ɬک 카운??20)륿?ū҄?٬??֫ˈ??	TakeDamage에서 한 프레임에 줄 수 있는 허용 카운트(20)를 오버하였습니다.				
+ETC_20170615_027960	?ɬʤ?լ? ?٫ʻ???Ŭ?	패스엔진 잘못된 위치				
+ETC_20170615_027961	?ҫ]?٬? ?ˬ????ѫ߬코드	등록되지 않았던 에러코드				
+ETC_20170615_027962	findShortestPath ?ų̆?٬??֫??? 배경???문의?լü?٬?.	findShortestPath 실패하였습니다. 배경팀에 문의해주세요.				
+ETC_20170615_027963	컨텐츠기???ŭl립트?ѬĜ ?ѫ߬가 발생?٬??֫??? ?ѫ߬ 메시지륿֬�?٬ĸ??	컨텐츠기획 스크립트에서 에러가 발생하였습니다. 에러 메시지를 확인하세요.				
+ETC_20170615_027964	?ݬʤ?ݪذ???ŭl립트?ѬĜ ?ѫ߬가 발생?٬??֫??? ?ѫ߬ 메시지륿֬�?٬ĸ??	시스템기획 스크립트에서 에러가 발생하였습니다. 에러 메시지를 확인하세요.				
+ETC_20170615_027965	TakeDamage?ѬĜ ???ū?Ŭ? �??ɫ? ?ɬک 카운??20)륿�??٬??֫???	TakeDamage에서 한 프레임에 줄 수 있는 허용 카운트(20)를 오버하였습니다.				
 ETC_20170615_027966	BTree ?ŭl립트?ѬĜ 문제가 발생?ɬʵ?ɫˤ.	BTree 스크립트에서 문제가 발생했습니다.				
 ETC_20170615_027967	?ի?지 ?άʤ쳐의 D3D Rect??Lock ?ūŘ	이미지 텍스쳐의 D3D Rect의 Lock 오류				
 ETC_20170615_027968	리플?ɬݴ ?ͬʤ??	리플레이 테스트				
-ETC_20170615_027969	로그 ?ū\?ݭ˰ ?֬˝ ?ūŘ ?ƫˈ??	로그 프로퍼티 형식 오류 입니다.				
-ETC_20170615_027970	?ɭ· ?֫Ӵ ?ƫˈ??	패킷 정보 입니다				
+ETC_20170615_027969	로그 ?ū\?ݭ˰ ?֬? ?ūŘ ?ƫ???	로그 프로퍼티 형식 오류 입니다.				
+ETC_20170615_027970	?ɭ· ?֫Ӵ ?ƫ???	패킷 정보 입니다				
 ETC_20170615_027971	?ի˹ 머신??CPU ?ͬک??	해당 머신의 CPU 사용율				
-ETC_20170615_027972	?ݫݼ?ի،???ɬ? ?ʫ߉(MB)	드라이브의 남은 용량(MB)				
-ETC_20170615_027973	초당 ?լʤ???Ҭĸ??비율(100% = 1촿	초당 디스크 엑세스 비율(100% = 1초)				
+ETC_20170615_027972	?ݫݼ?ի????ɬ? ?ʫ?(MB)	드라이브의 남은 용량(MB)				
+ETC_20170615_027973	초당 ?լʤ???Ҭĸ??비율(100% = 1�?	초당 디스크 엑세스 비율(100% = 1초)				
 ETC_20170615_027974	초당 ?ŭʸ?ͭl ?ͬک??Bytes)	초당 네트워크 사용량(Bytes)				
-ETC_20170615_027975	?ɬ? 촿메모릿?ʫ߉(KBytes)	남은 총 메모리 용량(KBytes)				
-ETC_20170615_027976	?ի˹ ?ݫ҄??초당 ?ū??	해당 서버의 초당 프레임				
-ETC_20170615_027977	?ի˹ ?ݫ҄??리소???իل ?ͬک??	해당 서버의 리소스 디비 사용량				
-ETC_20170615_027978	?ի˹ ?ݫ҄??게임 ?իل ?ͬک??	해당 서버의 게임 디비 사용량				
-ETC_20170615_027979	?ի˹ ?ݫ҄가 ?ͬک?٫ʔ 메모리량	해당 서버가 사용하는 메모리량				
-ETC_20170615_027980	?ի˹ ?ݫ҄가 ?ͬک?٫ʔ TX??	해당 서버가 사용하는 TX량				
-ETC_20170615_027981	?ի˹ ?ݫ҄??Fatal ?ūŘ ?ࠬȘ	해당 서버의 Fatal 오류 횟수				
-ETC_20170615_027982	?ի˹ ?ݫ҄???իل ?ѪҰ ?ų̆ ?ࠬȘ	해당 서버의 디비 연결 실패 횟수				
-ETC_20170615_027983	?ի˹ ?ݫ҄가 보낸 촿?ɭ· 갿Ș	해당 서버가 보낸 총 패킷 갯수				
-ETC_20170615_027984	?ի˹ ?ݫ҄가 보낸 촿?ɭ· ?ͪذ	해당 서버가 보낸 총 패킷 크기				
-ETC_20170615_027985	?ի˹ ?ݫ҄가 받쿠촿?ɭ· 갿Ș	해당 서버가 받은 총 패킷 갯수				
-ETC_20170615_027986	?ի˹ ?ݫ҄가 받쿠촿?ɭ· ?ͪذ	해당 서버가 받은 총 패킷 크기				
-ETC_20170615_027987	배럭?ݫ҄???ɫʔ ?l? ??	배럭서버에 있는 유저 수				
-ETC_20170615_027988	배럭?ݫ҄?ѬĜ ?իݼ?լָ?٫\ 보낸 ?ɭ· 개수	배럭서버에서 클라이언트로 보낸 패킷 개수				
-ETC_20170615_027989	배력?ݫ҄?ѬĜ ?իݼ?լָ?٫\ 보낸 ?ɭ· ?ͪذ	배력서버에서 클라이언트로 보낸 패킷 크기				
-ETC_20170615_027990	배럭?ݫ҄가 ?իݼ?լָ?٫\ 부??받쿠?ɭ· 개수	배럭서버가 클라이언트로 부터 받은 패킷 개수				
-ETC_20170615_027991	배럭?ݫ҄가 ?իݼ?լָ?٫\ 부??받쿠?ɭ· ?ͪذ	배럭서버가 클라이언트로 부터 받은 패킷 크기				
-ETC_20170615_027992	배럭?ݫ҄?ѬĜ 글로벌롿보낸 ?ɭ· 개수	배럭서버에서 글로벌로 보낸 패킷 개수				
-ETC_20170615_027993	배럭?ݫ҄?ѬĜ 글로벌롿보낸 ?ɭ· ?ͪذ	배럭서버에서 글로벌로 보낸 패킷 크기				
-ETC_20170615_027994	배럭?ݫ҄가 글로벌롿부??받쿠?ɭ· 개수	배럭서버가 글로벌로 부터 받은 패킷 개수				
-ETC_20170615_027995	배럭?ݫ҄가 글로벌 부??받쿠?ɭ· 개수	배럭서버가 글로벌 부터 받은 패킷 개수				
-ETC_20170615_027996	글로벌 ?ݫ҄???ɫʔ ?l? ??	글로벌 서버에 있는 유저 수				
-ETC_20170615_027997	미션 ?٬ʤ?լʤ 촿개수	미션 인스턴스 총 개수				
+ETC_20170615_027975	?ɬ? 촿메모릿?ʫ?(KBytes)	남은 총 메모리 용량(KBytes)				
+ETC_20170615_027976	?ի˹ ?ݫ???초당 ?ū??	해당 서버의 초당 프레임				
+ETC_20170615_027977	?ի˹ ?ݫ???리소???ի? ?ͬک??	해당 서버의 리소스 디비 사용량				
+ETC_20170615_027978	?ի˹ ?ݫ???게임 ?ի? ?ͬک??	해당 서버의 게임 디비 사용량				
+ETC_20170615_027979	?ի˹ ?ݫ?가 ?ͬک?٫? 메모리량	해당 서버가 사용하는 메모리량				
+ETC_20170615_027980	?ի˹ ?ݫ?가 ?ͬک?٫? TX??	해당 서버가 사용하는 TX량				
+ETC_20170615_027981	?ի˹ ?ݫ???Fatal ?ūŘ ????	해당 서버의 Fatal 오류 횟수				
+ETC_20170615_027982	?ի˹ ?ݫ????ի? ?ѪҰ ?ų̆ ????	해당 서버의 디비 연결 실패 횟수				
+ETC_20170615_027983	?ի˹ ?ݫ?가 보낸 촿�??갿�?	해당 서버가 보낸 총 패킷 갯수				
+ETC_20170615_027984	?ի˹ ?ݫ?가 보낸 촿�???ͪذ	해당 서버가 보낸 총 패킷 크기				
+ETC_20170615_027985	?ի˹ ?ݫ?가 받쿠촿�??갿�?	해당 서버가 받은 총 패킷 갯수				
+ETC_20170615_027986	?ի˹ ?ݫ?가 받쿠촿�???ͪذ	해당 서버가 받은 총 패킷 크기				
+ETC_20170615_027987	배럭?ݫ????ɫ? ?l? ??	배럭서버에 있는 유저 수				
+ETC_20170615_027988	배럭?ݫ??ѬĜ ?իݼ?լָ?٫\ 보낸 ?ɭ· 개수	배럭서버에서 클라이언트로 보낸 패킷 개수				
+ETC_20170615_027989	배력?ݫ??ѬĜ ?իݼ?լָ?٫\ 보낸 ?ɭ· ?ͪذ	배력서버에서 클라이언트로 보낸 패킷 크기				
+ETC_20170615_027990	배럭?ݫ?가 ?իݼ?լָ?٫\ 부??받쿠?ɭ· 개수	배럭서버가 클라이언트로 부터 받은 패킷 개수				
+ETC_20170615_027991	배럭?ݫ?가 ?իݼ?լָ?٫\ 부??받쿠?ɭ· ?ͪذ	배럭서버가 클라이언트로 부터 받은 패킷 크기				
+ETC_20170615_027992	배럭?ݫ??ѬĜ 글로벌롿보???ɭ· 개수	배럭서버에서 글로벌로 보낸 패킷 개수				
+ETC_20170615_027993	배럭?ݫ??ѬĜ 글로벌롿보???ɭ· ?ͪذ	배럭서버에서 글로벌로 보낸 패킷 크기				
+ETC_20170615_027994	배럭?ݫ?가 글로벌롿뿿?받쿠?ɭ· 개수	배럭서버가 글로벌로 부터 받은 패킷 개수				
+ETC_20170615_027995	배럭?ݫ?가 글로벌 부??받쿠?ɭ· 개수	배럭서버가 글로벌 부터 받은 패킷 개수				
+ETC_20170615_027996	글로벌 ?ݫ????ɫ? ?l? ??	글로벌 서버에 있는 유저 수				
+ETC_20170615_027997	미션 ?٬ʤ?լʤ 촿개??	미션 인스턴스 총 개수				
 ETC_20170615_027998	미션 ?٬ʤ?լʤ 비활??개수	미션 인스턴스 비활성 개수				
 ETC_20170615_027999	미션 ?٬ʤ?լʤ ?ݬı 개수	미션 인스턴스 활성 개수				
-ETC_20170615_028000	미션 ?٬ʤ?լʤ 비활?ҫ?긿개수	미션 인스턴스 비활성대기 개수				
+ETC_20170615_028000	미션 ?٬ʤ?լʤ 비활?ҫ?긿개??	미션 인스턴스 비활성대기 개수				
 ETC_20170615_028001	미션 ?٬ʤ?լʤ 종료 개수	미션 인스턴스 종료 개수				
-ETC_20170615_028002	글로벌?ݫ҄?ѬĜ 배럭?ݫ҄롿보낸 ?ɭ· 개수	글로벌서버에서 배럭서버로 보낸 패킷 개수				
-ETC_20170615_028003	글로벌?ݫ҄?ѬĜ 배럭?ݫ҄롿보낸 ?ɭ· ?ͪذ	글로벌서버에서 배럭서버로 보낸 패킷 크기				
-ETC_20170615_028004	글로벌?ݫ҄가 배럭?ݫ҄롿부??받쿠?ɭ· 개수	글로벌서버가 배럭서버로 부터 받은 패킷 개수				
-ETC_20170615_028005	글로벌?ݫ҄가 배럭?ݫ҄롿부??받쿠?ɭ· ?ͪذ	글로벌서버가 배럭서버로 부터 받은 패킷 크기				
-ETC_20170615_028006	글로벌?ݫ҄?ѬĜ 존서버로 보낸 ?ɭ· 개수	글로벌서버에서 존서버로 보낸 패킷 개수				
-ETC_20170615_028007	글로벌?ݫ҄?ѬĜ 존서버로 보낸 ?ɭ· ?ͪذ	글로벌서버에서 존서버로 보낸 패킷 크기				
-ETC_20170615_028008	글로벌?ݫ҄가 존서버로 부??받쿠?ɭ· 개수	글로벌서버가 존서버로 부터 받은 패킷 개수				
-ETC_20170615_028009	글로벌?ݫ҄가 존서버로 부??받쿠?ɭ· ?ͪذ	글로벌서버가 존서버로 부터 받은 패킷 크기				
-ETC_20170615_028010	글로벌?ݫ҄?ѬĜ 채팅?ݫ҄롿보낸 ?ɭ· 개수	글로벌서버에서 채팅서버로 보낸 패킷 개수				
-ETC_20170615_028011	글로벌?ݫ҄?ѬĜ 채팅?ݫ҄롿보낸 ?ɭ· ?ͪذ	글로벌서버에서 채팅서버로 보낸 패킷 크기				
-ETC_20170615_028012	글로벌?ݫ҄가 채팅?ݫ҄롿부??받쿠?ɭ· 개수	글로벌서버가 채팅서버로 부터 받은 패킷 개수				
-ETC_20170615_028013	글로벌?ݫ҄가 채팅?ݫ҄롿부??받쿠?ɭ· ?ͪذ	글로벌서버가 채팅서버로 부터 받은 패킷 크기				
-ETC_20170615_028014	글로벌?ݫ҄?ѬĜ 릴레?լŘ?ݫ҄롿보낸 ?ɭ· 개수	글로벌서버에서 릴레이션서버로 보낸 패킷 개수				
-ETC_20170615_028015	글로벌?ݫ҄?ѬĜ 릴레?լŘ?ݫ҄롿보낸 ?ɭ· ?ͪذ	글로벌서버에서 릴레이션서버로 보낸 패킷 크기				
-ETC_20170615_028016	글로벌?ݫ҄가 릴레?լŘ?ݫ҄롿부??받쿠?ɭ· 개수	글로벌서버가 릴레이션서버로 부터 받은 패킷 개수				
-ETC_20170615_028017	글로벌?ݫ҄가 릴레?լŘ?ݫ҄롿부??받쿠?ɭ· ?ͪذ	글로벌서버가 릴레이션서버로 부터 받은 패킷 크기				
-ETC_20170615_028018	글로벌?ݫ҄?ѬĜ ?٭˰그서버로 보낸 ?ɭ· 개수	글로벌서버에서 인티그서버로 보낸 패킷 개수				
-ETC_20170615_028019	글로벌?ݫ҄?ѬĜ ?٭˰그서버로 보낸 ?ɭ· ?ͪذ	글로벌서버에서 인티그서버로 보낸 패킷 크기				
-ETC_20170615_028020	글로벌?ݫ҄가 ?٭˰그서버로 부??받쿠?ɭ· 개수	글로벌서버가 인티그서버로 부터 받은 패킷 개수				
-ETC_20170615_028021	글로벌?ݫ҄가 ?٭˰그서버로 부??받쿠?ɭ· ?ͪذ	글로벌서버가 인티그서버로 부터 받은 패킷 크기				
+ETC_20170615_028002	글로벌?ݫ??ѬĜ 배럭?ݫ?롿보???ɭ· 개수	글로벌서버에서 배럭서버로 보낸 패킷 개수				
+ETC_20170615_028003	글로벌?ݫ??ѬĜ 배럭?ݫ?롿보???ɭ· ?ͪذ	글로벌서버에서 배럭서버로 보낸 패킷 크기				
+ETC_20170615_028004	글로벌?ݫ?가 배럭?ݫ?롿뿿?받쿠?ɭ· 개수	글로벌서버가 배럭서버로 부터 받은 패킷 개수				
+ETC_20170615_028005	글로벌?ݫ?가 배럭?ݫ?롿뿿?받쿠?ɭ· ?ͪذ	글로벌서버가 배럭서버로 부터 받은 패킷 크기				
+ETC_20170615_028006	글로벌?ݫ??ѬĜ 존서버로 보낸 ?ɭ· 개수	글로벌서버에서 존서버로 보낸 패킷 개수				
+ETC_20170615_028007	글로벌?ݫ??ѬĜ 존서버로 보낸 ?ɭ· ?ͪذ	글로벌서버에서 존서버로 보낸 패킷 크기				
+ETC_20170615_028008	글로벌?ݫ?가 존서버로 부??받쿠?ɭ· 개수	글로벌서버가 존서버로 부터 받은 패킷 개수				
+ETC_20170615_028009	글로벌?ݫ?가 존서버로 부??받쿠?ɭ· ?ͪذ	글로벌서버가 존서버로 부터 받은 패킷 크기				
+ETC_20170615_028010	글로벌?ݫ??ѬĜ 채팅?ݫ?롿보???ɭ· 개수	글로벌서버에서 채팅서버로 보낸 패킷 개수				
+ETC_20170615_028011	글로벌?ݫ??ѬĜ 채팅?ݫ?롿보???ɭ· ?ͪذ	글로벌서버에서 채팅서버로 보낸 패킷 크기				
+ETC_20170615_028012	글로벌?ݫ?가 채팅?ݫ?롿뿿?받쿠?ɭ· 개수	글로벌서버가 채팅서버로 부터 받은 패킷 개수				
+ETC_20170615_028013	글로벌?ݫ?가 채팅?ݫ?롿뿿?받쿠?ɭ· ?ͪذ	글로벌서버가 채팅서버로 부터 받은 패킷 크기				
+ETC_20170615_028014	글로벌?ݫ??ѬĜ 릴레?լŘ?ݫ?롿보???ɭ· 개수	글로벌서버에서 릴레이션서버로 보낸 패킷 개수				
+ETC_20170615_028015	글로벌?ݫ??ѬĜ 릴레?լŘ?ݫ?롿보???ɭ· ?ͪذ	글로벌서버에서 릴레이션서버로 보낸 패킷 크기				
+ETC_20170615_028016	글로벌?ݫ?가 릴레?լŘ?ݫ?롿뿿?받쿠?ɭ· 개수	글로벌서버가 릴레이션서버로 부터 받은 패킷 개수				
+ETC_20170615_028017	글로벌?ݫ?가 릴레?լŘ?ݫ?롿뿿?받쿠?ɭ· ?ͪذ	글로벌서버가 릴레이션서버로 부터 받은 패킷 크기				
+ETC_20170615_028018	글로벌?ݫ??ѬĜ ?٭˰그서버로 보낸 ?ɭ· 개수	글로벌서버에서 인티그서버로 보낸 패킷 개수				
+ETC_20170615_028019	글로벌?ݫ??ѬĜ ?٭˰그서버로 보낸 ?ɭ· ?ͪذ	글로벌서버에서 인티그서버로 보낸 패킷 크기				
+ETC_20170615_028020	글로벌?ݫ?가 ?٭˰그서버로 부??받쿠?ɭ· 개수	글로벌서버가 인티그서버로 부터 받은 패킷 개수				
+ETC_20170615_028021	글로벌?ݫ?가 ?٭˰그서버로 부??받쿠?ɭ· ?ͪذ	글로벌서버가 인티그서버로 부터 받은 패킷 크기				
 ETC_20170615_028022	존서버에 ?Ƭޥ 중인 ?l? ??	존서버에 입장 중인 유저 수				
 ETC_20170615_028023	존서버에 ?Ƭޥ???l? ??	존서버에 입장한 유저 수				
-ETC_20170615_028024	글로벌 ?ݫ҄? ?ѪҰ ?k̴	글로벌 서버와 연결 유무				
-ETC_20170615_028025	존서버에 배치???ū،?ޭʸ ??	존서버에 배치된 오브젝트 수				
+ETC_20170615_028024	글로벌 ?ݫ?? ?ѪҰ ?k̴	글로벌 서버와 연결 유무				
+ETC_20170615_028025	존서버에 배치???ū??ޭʸ ??	존서버에 배치된 오브젝트 수				
 ETC_20170615_028026	?ѫ????	쓰레드 수				
 ETC_20170615_028027	StringID ?ͬک??	StringID 사용량				
-ETC_20170615_028028	?ѪҰ???ͬܓ 개수	연결된 소켓 개수				
+ETC_20170615_028028	?ѪҰ???ͬ? 개수	연결된 소켓 개수				
 ETC_20170615_028029	?ݪѰ???l? ??	제거될 유저 수				
 ETC_20170615_028030	BTree ?ͬک개수	BTree 사용개수				
 ETC_20170615_028031	?Ŭެ 브로??캐스??개수	현재 브로드 캐스팅 개수				
-ETC_20170615_028032	?ի˹ ?ѫʬ???ɫʔ ?l? ??	해당 데몬에 있는 유저 수				
+ETC_20170615_028032	?ի˹ ?ѫʬ???ɫ? ?l? ??	해당 데몬에 있는 유저 수				
 ETC_20170615_028033	몽고로그 ?ͬک??	몽고로그 사용량				
-ETC_20170615_028034	?֭թ ?٫͘ 매칭 ?լҭ ?ࠬȘ	통합 인던 매칭 요청 횟수				
-ETC_20170615_028035	?֭թ ?٫͘ 매칭 ?ͬޅ???ࠬȘ	통합 인던 매칭 재입장 횟수				
-ETC_20170615_028036	?֭թ ?٫͘ 매칭 ?Ҫӵ ?ࠬȘ	통합 인던 매칭 성공 횟수				
-ETC_20170615_028037	?֭թ ?٫͘ 매칭 취소 ?ࠬȘ	통합 인던 매칭 취소 횟수				
-ETC_20170615_028038	존서버에??글로벌?ݫ҄롿보낸 ?ɭ· 개수	존서버에서 글로벌서버로 보낸 패킷 개수				
-ETC_20170615_028039	존서버에??글로벌?ݫ҄롿보낸 ?ɭ· ?ͪذ	존서버에서 글로벌서버로 보낸 패킷 크기				
-ETC_20170615_028040	존서버꿠글로벌?ݫ҄롿부??받쿠?ɭ· 개수	존서버가 글로벌서버로 부터 받은 패킷 개수				
-ETC_20170615_028041	존서버꿠글로벌?ݫ҄롿부??받쿠?ɭ· ?ͪذ	존서버가 글로벌서버로 부터 받은 패킷 크기				
-ETC_20170615_028042	글로벌 존서버에??채팅?ݫ҄롿보낸 ?ɭ· 개수	글로벌 존서버에서 채팅서버로 보낸 패킷 개수				
-ETC_20170615_028043	글로벌 존서버에??채팅?ݫ҄롿보낸 ?ɭ· ?ͪذ	글로벌 존서버에서 채팅서버로 보낸 패킷 크기				
-ETC_20170615_028044	글로벌 존서버꿠채팅?ݫ҄롿부??받쿠?ɭ· 개수	글로벌 존서버가 채팅서버로 부터 받은 패킷 개수				
-ETC_20170615_028045	글로벌 존서버꿠채팅?ݫ҄롿부??받쿠?ɭ· ?ͪذ	글로벌 존서버가 채팅서버로 부터 받은 패킷 크기				
-ETC_20170615_028046	글로벌 존서버에??릴레?լŘ?ݫ҄롿보낸 ?ɭ· 개수	글로벌 존서버에서 릴레이션서버로 보낸 패킷 개수				
-ETC_20170615_028047	글로벌 존서버에??릴레?լŘ?ݫ҄롿보낸 ?ɭ· ?ͪذ	글로벌 존서버에서 릴레이션서버로 보낸 패킷 크기				
-ETC_20170615_028048	글로벌 존서버꿠릴레?լŘ?ݫ҄롿부??받쿠?ɭ· 개수	글로벌 존서버가 릴레이션서버로 부터 받은 패킷 개수				
-ETC_20170615_028049	글로벌 존서버꿠릴레?լŘ?ݫ҄롿부??받쿠?ɭ· ?ͪذ	글로벌 존서버가 릴레이션서버로 부터 받은 패킷 크기				
+ETC_20170615_028034	?֭թ ?٫? 매칭 ?լҭ ????	통합 인던 매칭 요청 횟수				
+ETC_20170615_028035	?֭թ ?٫? 매칭 ?ͬ???????	통합 인던 매칭 재입장 횟수				
+ETC_20170615_028036	?֭թ ?٫? 매칭 ?Ҫӵ ????	통합 인던 매칭 성공 횟수				
+ETC_20170615_028037	?֭թ ?٫? 매칭 취소 ????	통합 인던 매칭 취소 횟수				
+ETC_20170615_028038	존서버에??글로벌?ݫ?롿보???ɭ· 개수	존서버에서 글로벌서버로 보낸 패킷 개수				
+ETC_20170615_028039	존서버에??글로벌?ݫ?롿보???ɭ· ?ͪذ	존서버에서 글로벌서버로 보낸 패킷 크기				
+ETC_20170615_028040	존서버꿠글로벌?ݫ?롿뿿?받쿠?ɭ· 개수	존서버가 글로벌서버로 부터 받은 패킷 개수				
+ETC_20170615_028041	존서버꿠글로벌?ݫ?롿뿿?받쿠?ɭ· ?ͪذ	존서버가 글로벌서버로 부터 받은 패킷 크기				
+ETC_20170615_028042	글로벌 존서버에??채팅?ݫ?롿보???ɭ· 개수	글로벌 존서버에서 채팅서버로 보낸 패킷 개수				
+ETC_20170615_028043	글로벌 존서버에??채팅?ݫ?롿보???ɭ· ?ͪذ	글로벌 존서버에서 채팅서버로 보낸 패킷 크기				
+ETC_20170615_028044	글로벌 존서버꿠채팅?ݫ?롿뿿?받쿠?ɭ· 개수	글로벌 존서버가 채팅서버로 부터 받은 패킷 개수				
+ETC_20170615_028045	글로벌 존서버꿠채팅?ݫ?롿뿿?받쿠?ɭ· ?ͪذ	글로벌 존서버가 채팅서버로 부터 받은 패킷 크기				
+ETC_20170615_028046	글로벌 존서버에??릴레?լŘ?ݫ?롿보???ɭ· 개수	글로벌 존서버에서 릴레이션서버로 보낸 패킷 개수				
+ETC_20170615_028047	글로벌 존서버에??릴레?լŘ?ݫ?롿보???ɭ· ?ͪذ	글로벌 존서버에서 릴레이션서버로 보낸 패킷 크기				
+ETC_20170615_028048	글로벌 존서버꿠릴레?լŘ?ݫ?롿뿿?받쿠?ɭ· 개수	글로벌 존서버가 릴레이션서버로 부터 받은 패킷 개수				
+ETC_20170615_028049	글로벌 존서버꿠릴레?լŘ?ݫ?롿뿿?받쿠?ɭ· ?ͪذ	글로벌 존서버가 릴레이션서버로 부터 받은 패킷 크기				
 ETC_20170615_028050	글로벌 존서버에???իݼ?լָ?٫\ 보낸 ?ɭ· 개수	글로벌 존서버에서 클라이언트로 보낸 패킷 개수				
 ETC_20170615_028051	글로벌 존서버에???իݼ?լָ?٫\ 보낸 ?ɭ· ?ͪذ	글로벌 존서버에서 클라이언트로 보낸 패킷 크기				
 ETC_20170615_028052	글로벌 존서버꿠?իݼ?լָ?٫\ 부??받쿠?ɭ· 개수	글로벌 존서버가 클라이언트로 부터 받은 패킷 개수				
 ETC_20170615_028053	글로벌 존서버꿠?իݼ?լָ?٫\ 부??받쿠?ɭ· ?ͪذ	글로벌 존서버가 클라이언트로 부터 받은 패킷 크기				
-ETC_20170615_028054	채팅?ݫ҄???Ƭޥ 중인 ?l? ??	채팅서버에 입장 중인 유저 수				
-ETC_20170615_028055	채팅?ݫ҄몽고로그 ?ƫ%??	채팅서버몽고로그 입력수				
-ETC_20170615_028056	채팅?ݫ҄?ѬĜ 글로벌?ݫ҄롿보낸 ?ɭ· 개수	채팅서버에서 글로벌서버로 보낸 패킷 개수				
-ETC_20170615_028057	채팅?ݫ҄?ѬĜ 글로벌?ݫ҄롿보낸 ?ɭ· ?ͪذ	채팅서버에서 글로벌서버로 보낸 패킷 크기				
-ETC_20170615_028058	채팅?ݫ҄가 글로벌?ݫ҄롿부??받쿠?ɭ· 개수	채팅서버가 글로벌서버로 부터 받은 패킷 개수				
-ETC_20170615_028059	채팅?ݫ҄가 글로벌?ݫ҄롿부??받쿠?ɭ· ?ͪذ	채팅서버가 글로벌서버로 부터 받은 패킷 크기				
-ETC_20170615_028060	채팅?ݫ҄?ѬĜ 존서버로 보낸 ?ɭ· 개수	채팅서버에서 존서버로 보낸 패킷 개수				
-ETC_20170615_028061	채팅?ݫ҄?ѬĜ 존서버로 보낸 ?ɭ· ?ͪذ	채팅서버에서 존서버로 보낸 패킷 크기				
-ETC_20170615_028062	채팅?ݫ҄가 존서버로 부??받쿠?ɭ· 개수	채팅서버가 존서버로 부터 받은 패킷 개수				
-ETC_20170615_028063	채팅?ݫ҄가 존서버로 부??받쿠?ɭ· ?ͪذ	채팅서버가 존서버로 부터 받은 패킷 크기				
-ETC_20170615_028064	채팅?ݫ҄?ѬĜ ?٭˰그서버로 보낸 ?ɭ· 개수	채팅서버에서 인티그서버로 보낸 패킷 개수				
-ETC_20170615_028065	채팅?ݫ҄?ѬĜ ?٭˰그서버로 보낸 ?ɭ· ?ͪذ	채팅서버에서 인티그서버로 보낸 패킷 크기				
-ETC_20170615_028066	채팅?ݫ҄가 ?٭˰그서버로 부??받쿠?ɭ· 개수	채팅서버가 인티그서버로 부터 받은 패킷 개수				
-ETC_20170615_028067	채팅?ݫ҄가 ?٭˰그서버로 부??받쿠?ɭ· ?ͪذ	채팅서버가 인티그서버로 부터 받은 패킷 크기				
-ETC_20170615_028068	채팅?ݫ҄?ѬĜ ?իݼ?լָ?٫\ 보낸 ?ɭ· 개수	채팅서버에서 클라이언트로 보낸 패킷 개수				
-ETC_20170615_028069	채팅?ݫ҄?ѬĜ ?իݼ?լָ?٫\ 보낸 ?ɭ· ?ͪذ	채팅서버에서 클라이언트로 보낸 패킷 크기				
-ETC_20170615_028070	채팅?ݫ҄가 ?իݼ?լָ?٫\ 부??받쿠?ɭ· 개수	채팅서버가 클라이언트로 부터 받은 패킷 개수				
-ETC_20170615_028071	채팅?ݫ҄가 ?իݼ?լָ?٫\ 부??받쿠?ɭ· ?ͪذ	채팅서버가 클라이언트로 부터 받은 패킷 크기				
-ETC_20170615_028072	릴레?լŘ?ݫ҄???ѪҰ 중인 ?l? ??	릴레이션서버에 연결 중인 유저 수				
-ETC_20170615_028073	릴레?լŘ?ݫ҄?ѬĜ 글로벌?ݫ҄롿보낸 ?ɭ· 개수	릴레이션서버에서 글로벌서버로 보낸 패킷 개수				
-ETC_20170615_028074	릴레?լŘ?ݫ҄?ѬĜ 글로벌?ݫ҄롿보낸 ?ɭ· ?ͪذ	릴레이션서버에서 글로벌서버로 보낸 패킷 크기				
-ETC_20170615_028075	릴레?լŘ?ݫ҄가 글로벌?ݫ҄롿부??받쿠?ɭ· 개수	릴레이션서버가 글로벌서버로 부터 받은 패킷 개수				
-ETC_20170615_028076	릴레?լŘ?ݫ҄가 글로벌?ݫ҄롿부??받쿠?ɭ· ?ͪذ	릴레이션서버가 글로벌서버로 부터 받은 패킷 크기				
-ETC_20170615_028077	릴레?լŘ?ݫ҄?ѬĜ 존서버로 보낸 ?ɭ· 개수	릴레이션서버에서 존서버로 보낸 패킷 개수				
-ETC_20170615_028078	릴레?լŘ?ݫ҄?ѬĜ 존서버로 보낸 ?ɭ· ?ͪذ	릴레이션서버에서 존서버로 보낸 패킷 크기				
-ETC_20170615_028079	릴레?լŘ?ݫ҄가 존서버로 부??받쿠?ɭ· 개수	릴레이션서버가 존서버로 부터 받은 패킷 개수				
-ETC_20170615_028080	릴레?լŘ?ݫ҄가 존서버로 부??받쿠?ɭ· ?ͪذ	릴레이션서버가 존서버로 부터 받은 패킷 크기				
-ETC_20170615_028081	릴레?լŘ?ݫ҄?ѬĜ ?իݼ?լָ?٫\ 보낸 ?ɭ· 개수	릴레이션서버에서 클라이언트로 보낸 패킷 개수				
-ETC_20170615_028082	릴레?լŘ?ݫ҄?ѬĜ ?իݼ?լָ?٫\ 보낸 ?ɭ· ?ͪذ	릴레이션서버에서 클라이언트로 보낸 패킷 크기				
-ETC_20170615_028083	릴레?լŘ?ݫ҄가 ?իݼ?լָ?٫\ 부??받쿠?ɭ· 개수	릴레이션서버가 클라이언트로 부터 받은 패킷 개수				
-ETC_20170615_028084	릴레?լŘ?ݫ҄가 ?իݼ?լָ?٫\ 부??받쿠?ɭ· ?ͪذ	릴레이션서버가 클라이언트로 부터 받은 패킷 크기				
-ETC_20170615_028085	?٭˰귿?ݫ҄? ?ѪҰ???l???	인티그 서버와 연결된 유저수				
-ETC_20170615_028086	?٭˰그서버에??채팅?ݫ҄롿보낸 ?ɭ· 개수	인티그서버에서 채팅서버로 보낸 패킷 개수				
-ETC_20170615_028087	?٭˰그서버에??채팅?ݫ҄롿보낸 ?ɭ· ?ͪذ	인티그서버에서 채팅서버로 보낸 패킷 크기				
-ETC_20170615_028088	?٭˰그서버꿠채팅?ݫ҄롿부??받쿠?ɭ· 개수	인티그서버가 채팅서버로 부터 받은 패킷 개수				
-ETC_20170615_028089	?٭˰그서버꿠채팅?ݫ҄롿부??받쿠?ɭ· ?ͪذ	인티그서버가 채팅서버로 부터 받은 패킷 크기				
-ETC_20170615_028090	?٭˰그서버에??글로벌?ݫ҄롿보낸 ?ɭ· 개수	인티그서버에서 글로벌서버로 보낸 패킷 개수				
-ETC_20170615_028091	?٭˰그서버에??글로벌?ݫ҄롿보낸 ?ɭ· ?ͪذ	인티그서버에서 글로벌서버로 보낸 패킷 크기				
-ETC_20170615_028092	?٭˰그서버꿠글로벌?ݫ҄롿부??받쿠?ɭ· 개수	인티그서버가 글로벌서버로 부터 받은 패킷 개수				
-ETC_20170615_028093	?٭˰그서버꿠글로벌?ݫ҄롿부??받쿠?ɭ· ?ͪذ	인티그서버가 글로벌서버로 부터 받은 패킷 크기				
-ETC_20170615_028094	Update ?ҫϙ ?k̴	Update 작동 유무				
-ETC_20170615_028095	졿?٬ʤ?լʤ???ɫʔ ?ū،?ޭʸ 개수	존 인스턴스에 있는 오브젝트 개수				
-ETC_20170615_028096	졿?٬ʤ?լʤ ?ɬݴ??개수	존 인스턴스 레이어 개수				
-ETC_20170615_028097	졿?٬ʤ?լʤ???ɫʔ PC??	존 인스턴스에 있는 PC수				
-ETC_20170615_028098	졿?٬ʤ?լʤ???ɫʔ 좀비수	존 인스턴스에 있는 좀비수				
-ETC_20170615_028099	Update??걸리???ݪЄ	Update에 걸리는 시간				
-ETC_20170615_028100	?Ѭݴ?ѫҠ?լʤ ?ѪҰ???˪? 	데이터베이스 연결이 끊김 				
+ETC_20170615_028054	채팅?ݫ????Ƭޥ 중인 ?l? ??	채팅서버에 입장 중인 유저 수				
+ETC_20170615_028055	채팅?ݫ?몽고로그 ?ƫ%??	채팅서버몽고로그 입력수				
+ETC_20170615_028056	채팅?ݫ??ѬĜ 글로벌?ݫ?롿보???ɭ· 개수	채팅서버에서 글로벌서버로 보낸 패킷 개수				
+ETC_20170615_028057	채팅?ݫ??ѬĜ 글로벌?ݫ?롿보???ɭ· ?ͪذ	채팅서버에서 글로벌서버로 보낸 패킷 크기				
+ETC_20170615_028058	채팅?ݫ?가 글로벌?ݫ?롿뿿?받쿠?ɭ· 개수	채팅서버가 글로벌서버로 부터 받은 패킷 개수				
+ETC_20170615_028059	채팅?ݫ?가 글로벌?ݫ?롿뿿?받쿠?ɭ· ?ͪذ	채팅서버가 글로벌서버로 부터 받은 패킷 크기				
+ETC_20170615_028060	채팅?ݫ??ѬĜ 존서버로 보낸 ?ɭ· 개수	채팅서버에서 존서버로 보낸 패킷 개수				
+ETC_20170615_028061	채팅?ݫ??ѬĜ 존서버로 보낸 ?ɭ· ?ͪذ	채팅서버에서 존서버로 보낸 패킷 크기				
+ETC_20170615_028062	채팅?ݫ?가 존서버로 부??받쿠?ɭ· 개수	채팅서버가 존서버로 부터 받은 패킷 개수				
+ETC_20170615_028063	채팅?ݫ?가 존서버로 부??받쿠?ɭ· ?ͪذ	채팅서버가 존서버로 부터 받은 패킷 크기				
+ETC_20170615_028064	채팅?ݫ??ѬĜ ?٭˰그서버로 보낸 ?ɭ· 개수	채팅서버에서 인티그서버로 보낸 패킷 개수				
+ETC_20170615_028065	채팅?ݫ??ѬĜ ?٭˰그서버로 보낸 ?ɭ· ?ͪذ	채팅서버에서 인티그서버로 보낸 패킷 크기				
+ETC_20170615_028066	채팅?ݫ?가 ?٭˰그서버로 부??받쿠?ɭ· 개수	채팅서버가 인티그서버로 부터 받은 패킷 개수				
+ETC_20170615_028067	채팅?ݫ?가 ?٭˰그서버로 부??받쿠?ɭ· ?ͪذ	채팅서버가 인티그서버로 부터 받은 패킷 크기				
+ETC_20170615_028068	채팅?ݫ??ѬĜ ?իݼ?լָ?٫\ 보낸 ?ɭ· 개수	채팅서버에서 클라이언트로 보낸 패킷 개수				
+ETC_20170615_028069	채팅?ݫ??ѬĜ ?իݼ?լָ?٫\ 보낸 ?ɭ· ?ͪذ	채팅서버에서 클라이언트로 보낸 패킷 크기				
+ETC_20170615_028070	채팅?ݫ?가 ?իݼ?լָ?٫\ 부??받쿠?ɭ· 개수	채팅서버가 클라이언트로 부터 받은 패킷 개수				
+ETC_20170615_028071	채팅?ݫ?가 ?իݼ?լָ?٫\ 부??받쿠?ɭ· ?ͪذ	채팅서버가 클라이언트로 부터 받은 패킷 크기				
+ETC_20170615_028072	릴레?լŘ?ݫ????ѪҰ 중인 ?l? ??	릴레이션서버에 연결 중인 유저 수				
+ETC_20170615_028073	릴레?լŘ?ݫ??ѬĜ 글로벌?ݫ?롿보???ɭ· 개수	릴레이션서버에서 글로벌서버로 보낸 패킷 개수				
+ETC_20170615_028074	릴레?լŘ?ݫ??ѬĜ 글로벌?ݫ?롿보???ɭ· ?ͪذ	릴레이션서버에서 글로벌서버로 보낸 패킷 크기				
+ETC_20170615_028075	릴레?լŘ?ݫ?가 글로벌?ݫ?롿뿿?받쿠?ɭ· 개수	릴레이션서버가 글로벌서버로 부터 받은 패킷 개수				
+ETC_20170615_028076	릴레?լŘ?ݫ?가 글로벌?ݫ?롿뿿?받쿠?ɭ· ?ͪذ	릴레이션서버가 글로벌서버로 부터 받은 패킷 크기				
+ETC_20170615_028077	릴레?լŘ?ݫ??ѬĜ 존서버로 보낸 ?ɭ· 개수	릴레이션서버에서 존서버로 보낸 패킷 개수				
+ETC_20170615_028078	릴레?լŘ?ݫ??ѬĜ 존서버로 보낸 ?ɭ· ?ͪذ	릴레이션서버에서 존서버로 보낸 패킷 크기				
+ETC_20170615_028079	릴레?լŘ?ݫ?가 존서버로 부??받쿠?ɭ· 개수	릴레이션서버가 존서버로 부터 받은 패킷 개수				
+ETC_20170615_028080	릴레?լŘ?ݫ?가 존서버로 부??받쿠?ɭ· ?ͪذ	릴레이션서버가 존서버로 부터 받은 패킷 크기				
+ETC_20170615_028081	릴레?լŘ?ݫ??ѬĜ ?իݼ?լָ?٫\ 보낸 ?ɭ· 개수	릴레이션서버에서 클라이언트로 보낸 패킷 개수				
+ETC_20170615_028082	릴레?լŘ?ݫ??ѬĜ ?իݼ?լָ?٫\ 보낸 ?ɭ· ?ͪذ	릴레이션서버에서 클라이언트로 보낸 패킷 크기				
+ETC_20170615_028083	릴레?լŘ?ݫ?가 ?իݼ?լָ?٫\ 부??받쿠?ɭ· 개수	릴레이션서버가 클라이언트로 부터 받은 패킷 개수				
+ETC_20170615_028084	릴레?լŘ?ݫ?가 ?իݼ?լָ?٫\ 부??받쿠?ɭ· ?ͪذ	릴레이션서버가 클라이언트로 부터 받은 패킷 크기				
+ETC_20170615_028085	?٭˰귿�?? ?ѪҰ???l???	인티그 서버와 연결된 유저수				
+ETC_20170615_028086	?٭˰그서버에??채팅?ݫ?롿보???ɭ· 개수	인티그서버에서 채팅서버로 보낸 패킷 개수				
+ETC_20170615_028087	?٭˰그서버에??채팅?ݫ?롿보???ɭ· ?ͪذ	인티그서버에서 채팅서버로 보낸 패킷 크기				
+ETC_20170615_028088	?٭˰그서버꿠채팅?ݫ?롿뿿?받쿠?ɭ· 개수	인티그서버가 채팅서버로 부터 받은 패킷 개수				
+ETC_20170615_028089	?٭˰그서버꿠채팅?ݫ?롿뿿?받쿠?ɭ· ?ͪذ	인티그서버가 채팅서버로 부터 받은 패킷 크기				
+ETC_20170615_028090	?٭˰그서버에??글로벌?ݫ?롿보???ɭ· 개수	인티그서버에서 글로벌서버로 보낸 패킷 개수				
+ETC_20170615_028091	?٭˰그서버에??글로벌?ݫ?롿보???ɭ· ?ͪذ	인티그서버에서 글로벌서버로 보낸 패킷 크기				
+ETC_20170615_028092	?٭˰그서버꿠글로벌?ݫ?롿뿿?받쿠?ɭ· 개수	인티그서버가 글로벌서버로 부터 받은 패킷 개수				
+ETC_20170615_028093	?٭˰그서버꿠글로벌?ݫ?롿뿿?받쿠?ɭ· ?ͪذ	인티그서버가 글로벌서버로 부터 받은 패킷 크기				
+ETC_20170615_028094	Update ?ҫ? ?k̴	Update 작동 유무				
+ETC_20170615_028095	졿�??լʤ???ɫ? ?ū??ޭʸ 개수	존 인스턴스에 있는 오브젝트 개수				
+ETC_20170615_028096	졿�??լʤ ?ɬݴ??개수	존 인스턴스 레이어 개수				
+ETC_20170615_028097	졿�??լʤ???ɫ? PC??	존 인스턴스에 있는 PC수				
+ETC_20170615_028098	졿�??լʤ???ɫ? 좀비수	존 인스턴스에 있는 좀비수				
+ETC_20170615_028099	Update??걸리???ݪ?	Update에 걸리는 시간				
+ETC_20170615_028100	?Ѭݴ?ѫ??լʤ ?ѪҰ???˪? 	데이터베이스 연결이 끊김 				
 ETC_20170615_028101	Node????ѪҰ???˪?	Node와의 연결이 끊김				
-ETC_20170615_028102	?ѫϙ 채널 추꿠결과 ?٬ˠ	자동 채널 추가 결과 수신				
-ETC_20170615_028103	?ѫϙ 채널 추꿠명령 ?Ŭơ 	자동 채널 추가 명령 전송 				
-ETC_20170615_028104	?ѫϙ 채널 ?? 결과 ?٬ˠ	자동 채널 삭제 결과 수신				
-ETC_20170615_028105	?ѫϙ 채널 ?? 명령 ?Ŭơ 	자동 채널 삭제 명령 전송 				
-ETC_20170615_028106	?̬ސ 갿	숫자 값				
-ETC_20170615_028107	문자??갿	문자열 값				
+ETC_20170615_028102	?ѫ? 채널 추꿠결과 ?٬?	자동 채널 추가 결과 수신				
+ETC_20170615_028103	?ѫ? 채널 추꿠명령 ?Ŭơ 	자동 채널 추가 명령 전송 				
+ETC_20170615_028104	?ѫ? 채널 ?? 결과 ?٬?	자동 채널 삭제 결과 수신				
+ETC_20170615_028105	?ѫ? 채널 ?? 명령 ?Ŭơ 	자동 채널 삭제 명령 전송 				
+ETC_20170615_028106	?̬? �?	숫자 값				
+ETC_20170615_028107	문자??�?	문자열 값				
 ETC_20170615_028108	Boolean 갿ture/false)	Boolean 값(ture/false)				
 ETC_20170615_028109	?ҫ]?٬? ?ˬ? 추꿿?ʩ??	등록되지 않은 추가항목들				
 ETC_20170615_028110	?ѫ߬코드	에러코드				
-ETC_20170615_028111	?ѫ߬코드?ūʅ	에러코드설명				
-ETC_20170615_028112	콜스?ެ볿	콜스택정보				
+ETC_20170615_028111	?ѫ߬코드?ū?	에러코드설명				
+ETC_20170615_028112	콜스?ެ�?	콜스택정보				
 ETC_20170615_028113	?ѫ߬코드 ?Ѫ? ?	에러코드 연관 팀				
-ETC_20170615_028114	?ݫ҄ 그룹 ?Ŭݴ??	서버 그룹 아이디				
-ETC_20170615_028115	?ݫ҄ 그룹 ?իƄ	서버 그룹 이름				
-ETC_20170615_028116	?ݫ҄ 머신 ?Ŭݴ??	서버 머신 아이디				
-ETC_20170615_028117	?ݫ҄ 머신 ?իƄ	서버 머신 이름				
+ETC_20170615_028114	?ݫ? 그룹 ?Ŭݴ??	서버 그룹 아이디				
+ETC_20170615_028115	?ݫ? 그룹 ?ի?	서버 그룹 이름				
+ETC_20170615_028116	?ݫ? 머신 ?Ŭݴ??	서버 머신 아이디				
+ETC_20170615_028117	?ݫ? 머신 ?ի?	서버 머신 이름				
 ETC_20170615_028118	?ѫʬ ?Ŭݴ??	데몬 아이디				
-ETC_20170615_028119	?ѫʬ ?իƄ	데몬 이름				
-ETC_20170615_028120	?ѫʬ ????ݫ҄ ???	데몬 타입(서버 타입)				
-ETC_20170615_028121	맿?Ŭݴ??	맵 아이디				
-ETC_20170615_028122	맿?իƄ	맵 이름				
+ETC_20170615_028119	?ѫʬ ?ի?	데몬 이름				
+ETC_20170615_028120	?ѫʬ ????ݫ? ???	데몬 타입(서버 타입)				
+ETC_20170615_028121	맿Ŭ�??	맵 아이디				
+ETC_20170615_028122	맿�?	맵 이름				
 ETC_20170615_028123	채널 ?Ŭݴ??	채널 아이디				
-ETC_20170615_028124	?ūɔ???ݫ҄ ?իƄ	도메인 서버 이름				
-ETC_20170615_028125	결과 갿문자??	결과 값(문자열)				
+ETC_20170615_028124	?ū????ݫ? ?ի?	도메인 서버 이름				
+ETC_20170615_028125	결과 갿문???	결과 값(문자열)				
 ETC_20170615_028126	?Ŭݴ??주소(문자??	아이피 주소(문자열)				
-ETC_20170615_028127	갿?ͬȘ 갿	값(소수 값)				
+ETC_20170615_028127	갿�? �?	값(소수 값)				
 ETC_20170615_028128	기록 주체(?ѫʬ ???	기록 주체(데몬 타입)				
-ETC_20170615_028129	?¬ˠ(?ѫʬ ???	송신(데몬 타입)				
-ETC_20170615_028130	?٬ˠ(?ѫʬ ???	수신(데몬 타입)				
+ETC_20170615_028129	?¬?(?ѫʬ ???	송신(데몬 타입)				
+ETC_20170615_028130	?٬?(?ѫʬ ???	수신(데몬 타입)				
 ETC_20170615_028131	카운??DWORD)	카운터(DWORD)				
 ETC_20170615_028132	?ͪذ(DWORD)	크기(DWORD)				
 ETC_20170615_028133	Normal Packet??커맨??WORD)	Normal Packet의 커맨드(WORD)				
 ETC_20170615_028134	리플?ɬݴ ?իݼ?լָ??버전	리플레이 클라이언트 버전				
 ETC_20170615_028135	리플?ɬݴ ?ͬÝ 버전	리플레이 재생 버전				
 ETC_20170615_028136	리플?ɬݴ 로직 버전	리플레이 로직 버전				
-ETC_20170615_028137	리플?ɬݴ ?lǜ	리플레이 날짜				
+ETC_20170615_028137	리플?ɬݴ ?l?	리플레이 날짜				
 ETC_20170615_028138	리플?ɬݴ 리비??	리플레이 리비전				
 ETC_20170615_028139	500 Attribute Points	특성 포인트 500				
 ETC_20170615_028140	Gives 500 Attribute Points. Right-click to use.	사용시 특성 포인트가 500 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.				
@@ -28154,8 +28154,8 @@ ETC_20170615_028148	A box containing 5 Blessed Shards. Right-click to use and ob
 ETC_20170615_028149	Goddesses' Blessed Gem Box	여신의 축복석 상자				
 ETC_20170615_028150	A box containing 10 Goddesses' Blessed Gems. Right-click to use and obtain the Blessed Gems.	여신의 축복석 10개가 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용하면 아이템이 지급됩니다.				
 ETC_20170615_028151	????????鵝놃?????????????????????????????????? ?????????????????(??	로깅라이브러리의 테스트함수를 동작시킵니다(초)				
-ETC_20170615_028152	??????曆뉏??????꾿?????????????????? ?????????????????.	헬스체크의 테스트모드를 동작시킵니다.				
-ETC_20170615_028153	??????曆뉏??????꾿????????????? ???????????????????????????????????????.	헬스체크 데이터중 패킷에 대한 정보를 로그로 남깁니다.				
+ETC_20170615_028152	??????曆뉏??????�????????????????? ?????????????????.	헬스체크의 테스트모드를 동작시킵니다.				
+ETC_20170615_028153	??????曆뉏??????�???????????? ???????????????????????????????????????.	헬스체크 데이터중 패킷에 대한 정보를 로그로 남깁니다.				
 ETC_20170615_028154	Artisan Recipe - Abdochar	장인의 제작서-아브도챠				
 ETC_20170615_028155	Artisan Recipe - Sarkmis	장인의 제작서-사크미스				
 ETC_20170615_028156	Artisan Recipe - Heart of Glory	장인의 제작서-하트 오브 글로리				
@@ -28209,7 +28209,7 @@ ETC_20170709_028203	Select Equipment	장비 선택
 ETC_20170709_028204	Returning Player Event	다시 시작 이벤트 (복귀자의 선물)				
 ETC_20170709_028205	Golden Stone Whale	황금 석화 고래				
 ETC_20170710_028206	Golden Stone Whale altar	황금 고래 제단				
-ETC_20170717_028207	?꿔꺂????귿????? 0??????꿔꺂????????k?????????	참조 수가 0인 이미 지워진 객체입니다.				
+ETC_20170717_028207	?꿔꺂????�???? 0??????꿔꺂????????k?????????	참조 수가 0인 이미 지워진 객체입니다.				
 ETC_20170717_028208	Miko Unlock Voucher	무녀 클래스 해금권				
 ETC_20170717_028209	Use to unlock the Miko class after reaching Rank 6. Right-click to use.	사용 시 6랭크 달성 후 무녀 클래스를 선택할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.				
 ETC_20170717_028210	Appraiser Unlock Voucher	감정사 클래스 해금권				
@@ -29011,7 +29011,7 @@ ETC_20170925_029005	Cannot be used by shop owner.	상점 주인은 이용할 수
 ETC_20170925_029006	Insufficient portal scrolls.	포탈 스크롤이 부족합니다.				
 ETC_20170925_029007	{USER} moved to {MAP} using the portal.	{USER}님이 포탈을 이용하여 {MAP}로 이동하였습니다.				
 ETC_20170925_029008	Insufficient maximum durability.	최대 내구도가 부족합니다.				
-ETC_20170925_029009	With Token benefits, you can enter with {COUNT} items.{nl}Current state: Token {TOKEN_STATE}	토큰 혜택이 있으면 입장 아이템을 {COUNT}개 적게 입장할 수 있습니다{nl}현재 상태: 토큰 {TOKEN_STATE}				
+ETC_20170925_029009	With Token benefits, you can enter with {COUNT} less items.{nl}Current state: Token {TOKEN_STATE}	토큰 혜택이 있으면 입장 아이템을 {COUNT}개 적게 입장할 수 있습니다{nl}현재 상태: 토큰 {TOKEN_STATE}				
 ETC_20170925_029010	Insufficient items to enter the dungeon.	인던 입장에 필요한 재료가 부족합니다.				
 ETC_20170925_029011	players	명				
 ETC_20171013_029012	Halloween Pop-up Book	할로윈 팝업북				
@@ -31019,7 +31019,7 @@ ETC_20171128_031013	Failed to change Guild emblem. Please check the item status.
 ETC_20171128_031014	Insufficient Portal Stones.	포탈 스톤이 부족합니다.	ETC_20170925_029006	Insufficient portal scrolls.	포탈 스크롤이 부족합니다.	
 ETC_20171128_031015	Piercing	찌르기 공격력	ETC_20150317_002747	Piercing	찌르기류	
 ETC_20171128_031016	Slashing	베기 공격력	ETC_20150317_002748	Slashing	베기류	
-ETC_20171128_031017	Strike-type	때리기 공격력	ETC_20160224_020659	Strike-type	때리기류	
+ETC_20171128_031017	Strike-type Attack	때리기 공격력	ETC_20160224_020659	Strike-type	때리기류	
 ETC_20171128_031018	Looting Chance	루팅 찬스				
 ETC_20171128_031019	Pierce Attack	찌르기류 공격력				
 ETC_20171128_031020	Slash Attack	베기류 공격력				
@@ -31169,3 +31169,97 @@ ETC_20171222_031163	Right-click to obtain the following items:{nl} - Lv 10 Enhan
 ETC_20171222_031164	2nd Anniversary Souvenir	2주년 기념수				
 ETC_20171222_031165	PC Zombie Logging Time (ms)	pc 좀비 로깅 타임(ms)				
 ETC_20171222_031166	Making a wish...	새해 소망 비는 중				
+ETC_20180102_031167	A title given to participants of the 2018 Happy New Year Wishes Greetings event. Right-click to use.	2018 Happy New Year Wishes Greetings 수상자에게 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.				
+ETC_20180108_031168	Zombie reference count not reducing; memory cell margin occurring.	좀비 레프런스 카운트 안 줄어들어서 메모리 샐 여지가 있음				
+ETC_20180108_031169	Premium Snowflake Costume Package (Male)	프리미엄 하얀 눈꽃 코스튬 패키지 (남)				
+ETC_20180108_031170	Right-click to open and obtain the following items.{nl}- Premium Snowflake Costume (Male) x1{nl}- Premium Snowflake Crown x1	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 프리미엄 눈꽃 코스튬(남) x1 {nl} - 프리미엄 눈꽃 왕관 x1				
+ETC_20180108_031171	Premium Snowflake Costume Package (Female)	프리미엄 하얀 눈꽃 코스튬 패키지 (여)				
+ETC_20180108_031172	Right-click to open and obtain the following items.{nl}- Premium Snowflake Costume (Female) x1{nl}- Premium Snowflake Crown x1	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 프리미엄 눈꽃 코스튬(여) x1 {nl} - 프리미엄 눈꽃 왕관 x1				
+ETC_20180108_031173	Attribute Points: 100	특성 포인트 100				
+ETC_20180108_031174	Appears when equipping the White Snowflake Footprint	하얀 눈꽃 발자국 착용시 발생				
+ETC_20180108_031175	{nl}You can receive the reward in {HOUR} hour(s).	 {nl}{HOUR} 시간후에 보상을 수령할 수 있습니다.				
+ETC_20180108_031176	Your party members have moved on to a higher stage of the challenge. You can no longer re-enter.	도전을 중지한 단계와 현재 파티원이 도전중인 단계가 달라 재입장할 수 없습니다.				
+ETC_20180108_031177	Challenge Mode interrupted. Re-enter?	도전중인 챌린지 단계가 있습니다. 재입장 하시겠습니까?				
+ETC_20180115_031178	Premium Snowflake Package (Male)	프리미엄 하얀 눈꽃 패키지 (남)	ETC_20180108_031169	Premium Snowflake Costume Package (Male)	프리미엄 하얀 눈꽃 코스튬 패키지 (남)	
+ETC_20180115_031179	Right-click to open and obtain the following items.{nl}- Premium Snowflake Costume (Male) x1{nl}- Premium Snowflake Crown x1	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 프리미엄 하얀 눈꽃 코스튬(남) x1 {nl} - 프리미엄 눈꽃 왕관 x1	ETC_20180108_031170	Right-click to open and obtain the following items.{nl}- Premium Snowflake Costume (Male) x1{nl}- Premium Snowflake Crown x1	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 프리미엄 눈꽃 코스튬(남) x1 {nl} - 프리미엄 눈꽃 왕관 x1	
+ETC_20180115_031180	Premium Snowflake Package (Female)	프리미엄 하얀 눈꽃 패키지 (여)	ETC_20180108_031171	Premium Snowflake Costume Package (Female)	프리미엄 하얀 눈꽃 코스튬 패키지 (여)	
+ETC_20180115_031181	Right-click to open and obtain the following items.{nl}- Premium Snowflake Costume (Female) x1{nl}- Premium Snowflake Crown x1	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 프리미엄 하얀 눈꽃 코스튬(여) x1 {nl} - 프리미엄 눈꽃 왕관 x1	ETC_20180108_031172	Right-click to open and obtain the following items.{nl}- Premium Snowflake Costume (Female) x1{nl}- Premium Snowflake Crown x1	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 프리미엄 눈꽃 코스튬(여) x1 {nl} - 프리미엄 눈꽃 왕관 x1	
+ETC_20180115_031182	If at least one player is not a Token user, after the trade the item can {#ffba00}no longer be traded or transferred via Team Storage{/}.	한 명 이라도 토큰을 사용하지 않으면 교환 후 아이템이 {#ffba00}팀 창고 이동 및 거래 불가{/} 상태가 됩니다.	ETC_20170726_028361	If at least one player is not a Token user, after the trade the item will become untradable.	한 명 이라도 토큰을 사용하지 않으면 교환 후 아이템이 거래 불가 상태가 됩니다.	
+ETC_20180115_031183	The following item(s) will be untradable (Trade NO, Team Storage NO)	팀 창고 이동 및 거래 속성이 변경되는 아이템 목록	ETC_20160425_021752	Items with changing trade properties	거래 속성이 변경되는 아이템 목록	
+ETC_20180115_031184	{@st63_red}{s18}No Trades Left{/}{/}	{@st63_red}{s18}거래 가능 횟수 0{/}{/}	ETC_20160425_021757	Token Disabled	토큰 미사용	
+ETC_20180122_031185	The shadows have started to appear!{nl}Use the device and turn into a shadow, then catch the other shadows!	연구 장치를 건드리자 그림자가 보입니다!{nl}장치를 이용해 그림자로 변해 그림자들을 잡으세요!				
+ETC_20180122_031186	Transformation Device	그림자 변신 장치				
+ETC_20180122_031187	The shadows have started to appear!{nl}Avoid the hidden shadows and scare the ones around you!	연구 장치를 건드리자 그림자가 보입니다!{nl}숨어있는 그림자들을 피해 주변의 그림자들을 놀래주세요!				
+ETC_20180122_031188	The shadows have started to appear!{nl}Go after the shadows that have the same influence!	연구 장치를 건드리자 그림자가 보입니다!{nl}같은 영향을 받은 그림자만을 노려 잡으세요!				
+ETC_20180122_031189	The shadows have started to appear!{nl}Avoid the shadows chasing you and catch those around you!	연구 장치를 건드리자 그림자가 보입니다!{nl}쫓아오는 그림자들을 피해 주변의 그림자들을 잡으세요!				
+ETC_20180122_031190	Check Time	시간 체크				
+ETC_20180122_031191	Check memory	메모리 체크				
+ETC_20180122_031192	Merchant Golden Anvil Box	장인의 황금 모루 상자				
+ETC_20180122_031193	A box containing 5 Shining Gold Anvils. Right-click to use and obtain the items.	빛나는 황금 모루 5개가 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용하면 아이템이 지급됩니다.				
+ETC_20180122_031194	Goro	고로				
+ETC_20180122_031195	Here's the Quality Iron Ore.	질 좋은 철광석을 전달하기	ETC_20171128_030163	Deliver the object	물건을 전달하기	
+ETC_20180122_031196	Here are the Intact Blue Hohen Gulak Horns.	온전한 푸른 호헨 굴락의 뿔 전달하기	ETC_20171128_030163	Deliver the object	물건을 전달하기	
+ETC_20180122_031197	Here is the Silk Cocoon.	상태가 좋은 고치를  전달한다	ETC_20171128_030169	Deliver the object	물건 전달하기	
+ETC_20180122_031198	Collected enough Electric Stones to make Lightning Bullets.	전기탄을 만들 수 있을만큼의{nl}전기가 흐르는 돌을 모았습니다				
+ETC_20180122_031199	There are Electric Stones nearby.	전기가 흐르는 돌이 근처 있습니다				
+ETC_20180122_031200	The energy has escaped from the research device!{nl}Please try again later.	연구 장치에 깃든 기운이 빠져나갔습니다.{nl}잠시 후에 다시 시도해주세요.				
+ETC_20180122_031201	No energy is felt from the research device.{nl}Please try again later.	연구 장치에 깃든 기운이 느껴지지 않습니다.{nl}잠시 후에 다시 시도해주세요.				
+ETC_20180122_031202	The shadow energy is slowly manifesting.	그림자의 기운이 조금씩 강하게 느껴집니다.				
+ETC_20180122_031203	The shadow energy is growing stronger.	그림자의 기운이 점점 더 강하게 느껴집니다.				
+ETC_20180122_031204	The shadow has been caught!	그림자를 잡았습니다!				
+ETC_20180122_031205	What do I need to do?	진행 방법에 대한 설명을 듣는다				
+ETC_20180122_031206	{nl}Assigned location: {MAPNAME}. Defeat the monsters there.{nl}Progress: {COUNT} / 100%	 {nl}{MAPNAME}으로 이동하여 몬스터를 처치하시오.{nl}진행률 : {COUNT} / 100 %				
+ETC_20180122_031207	Receive Event Quest	이벤트 퀘스트 받기				
+ETC_20180122_031208	Hunter's Buff	가문 버프				
+ETC_20180129_031209	Tell me about the shadows in Taniel I Avenue.	타니엘 1세 기념구의 그림자에 대해 묻는다	ETC_20171128_030167	Use Shadowmancer Attributes	섀도우맨서 특성 사용	
+ETC_20180129_031210	Tell me about the research.	연구에 대해 이야기한다				
+ETC_20180129_031211	Secret Recipe - Abdochar	비밀 제작서-아브도챠				
+ETC_20180129_031212	Secret Recipe - Sarkmis	비밀 제작서-사크미스				
+ETC_20180129_031213	Secret Recipe - Skull Smasher	비밀 제작서-스컬 스매셔				
+ETC_20180129_031214	Secret Recipe - Regard Horn Staff	비밀 제작서-리가드 혼 스태프				
+ETC_20180129_031215	Secret Recipe - Heart of Glory	비밀 제작서-하트 오브 글로리				
+ETC_20180129_031216	Secret Recipe - Skull Breaker	비밀 제작서-스컬 브레이커				
+ETC_20180129_031217	Secret Recipe - Emengard Dagger	비밀 제작서-에멘가드 대거				
+ETC_20180129_031218	Secret Recipe - Wingshard Spear	비밀 제작서-윙샤드 스피어				
+ETC_20180129_031219	Secret Recipe - Regard Horn Pike	비밀 제작서-리가드 혼 파이크				
+ETC_20180129_031220	Secret Recipe - Black Horn	비밀 제작서-블랙 혼				
+ETC_20180129_031221	Secret Recipe - Regard Horn Crossbow	비밀 제작서-리가드 혼 크로스보우				
+ETC_20180129_031222	Secret Recipe - Astra Bow	비밀 제작서-아스트라 보우				
+ETC_20180129_031223	Secret Recipe - Aspana Revolver	비밀 제작서-아스파나 리볼버				
+ETC_20180129_031224	Secret Recipe - Emengard Musket	비밀 제작서-에멘가드 머스킷				
+ETC_20180129_031225	Secret Recipe - Emengard Cannon	비밀 제작서-에멘가드 캐논				
+ETC_20180129_031226	Secret Recipe - Emengard Shield	비밀 제작서-에멘가드 실드				
+ETC_20180129_031227	Psst... I know about the secret market.	비밀 야시장에 대해 알고 있다.				
+ETC_20180129_031228	I can give you 10 Talt.	탈트 10개를 건네준다.				
+ETC_20180129_031229	Let me inside the market.	비밀 야시장으로 들어간다.				
+ETC_20180129_031230	I want to exit the market.	비밀 야시장을 나간다.				
+ETC_20180129_031231	Merchant	야시장 상인				
+ETC_20180202_031232	Golden Pup Popup Book	황금개 팝업북				
+ETC_20180202_031233	Superior Lucky Box	최고급 행운 상자				
+ETC_20180202_031234	Right-click to use and obtain the items.{nl} - Looting Chance Potion: 500 x1 {nl} - Looting Chance Potion: 300 x3	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 루팅 찬스 포션: 500 x1 {nl} - 루팅 찬스 포션: 300 x3				
+ETC_20180202_031235	Advanced Lucky Box	고급 행운 상자				
+ETC_20180202_031236	Right-click to use and obtain the items.{nl} - Looting Chance Potion: 300 x3	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 루팅 찬스 포션: 300 x3				
+ETC_20180202_031237	Lucky Box	행운 상자				
+ETC_20180202_031238	Right-click to use and obtain the items.{nl} - Looting Chance Potion: 500 x1	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 루팅 찬스 포션: 100 x5				
+ETC_20180202_031239	Shining Golden Socket Box	빛나는 황금 소켓 상자				
+ETC_20180202_031240	Right-click to use and obtain the items.{nl} - Shining Golden Socket x3	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 빛나는 황금 소켓 x3				
+ETC_20180202_031241	Golden Dog Warrior Costume Package (Male)	금강불개 무사 코스튬 패키지(남)				
+ETC_20180202_031242	Right-click to use and obtain the items.{nl} - Golden Dog Warrior Helmet x1{nl} - Golden Dog Warrior Costume (Male) x1 	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 금강불개  투구 x1{nl} - 금강불개 무사 코스튬 (남) x1 				
+ETC_20180202_031243	Golden Dog Warrior Costume Package (Female)	금강불개 무사 코스튬 패키지(여)				
+ETC_20180202_031244	Right-click to use and obtain the items.{nl} - Golden Dog Warrior Helmet x1{nl} - Golden Dog Warrior Costume (Female) x1 	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 금강불개  투구 x1{nl} - 금강불개 무사 코스튬 (여) x1 				
+ETC_20180202_031245	Golden Puppy Costume Box	복실복실 황금개 코스튬 상자				
+ETC_20180202_031246	Right-click to use and obtain the items.{nl} - Golden Puppy Head x1 {nl} - Golden Puppy Body x1	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 복실복실 황금개 헤드 x1 {nl} - 복실복실 황금개 코스튬 x1				
+ETC_20180202_031247	Event Info	이벤트 설명				
+ETC_20180202_031248	 {nl}Deliver these chocolates to the Cute Boy in {MAP}.{nl}Or... have a bite yourself?{nl}Will you eat the chocolates instead?	 {nl}{MAP} 에 있는 소년에게 초콜릿을 전달해 주세요.{nl}혹은 자신이 먹을 수도 있습니다.{nl}먹겠습니까?				
+ETC_20180202_031249	You have no {ITEMNAME}.	{ITEMNAME}이 없습니다.				
+ETC_20180202_031250	Delivered {ITEMNAME}.	{ITEMNAME}을 전달하였습니다.				
+ETC_20180202_031251	Rookie/Returning Savior Event	초보, 복귀 이벤트				
+ETC_20180202_031252	Log Calendar	매일매일 출석체크 이벤트				
+ETC_20180202_031253	 {nl}That's your reward for day {COUNT}.{nl}Don't forget to come back tomorrow!	 {nl}{COUNT}일차 보상을 받았습니다.{nl}내일 또 오세요~				
+ETC_20180202_031254	Golden Dog Warrior Helmet	금강불개 투구				
+ETC_20180202_031255	Cute Boy	이벤트 소년				
+ETC_20180206_031256	Golden Dog	금강불개				
+ETC_20180206_031257	Lycanthrope (Male)	라이칸스로피 수인화(남)				
+ETC_20180206_031258	Lycanthrope (Female)	라이칸스로피 수인화(여)				
+ETC_20180212_031259	SMTP Error	SMTP 관련 에러				
+ETC_20180212_031260	Golden Pup	황금개				
