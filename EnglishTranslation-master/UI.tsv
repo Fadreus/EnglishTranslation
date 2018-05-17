@@ -1965,8 +1965,8 @@ UI_20151224_001964	{@st66b}Character Settings{/}	{@st66b}캐릭터 설정{/}	UI_
 UI_20151224_001965	{@st59}Collection (F11){/}	{@st59}콜렉션 (F11){/}				
 UI_20151224_001966	{@st66b}Key Settings	{@st66b}키 설정				
 UI_20151224_001967	{@st42}Duration: %s{/}	{@st42}사용기간 : %s{/}				
-UI_20151224_001968	Applies to this %s for %s{nl} and delete %s from inventory	사용한 %s 인벤토리에서 사라지며{nl}%s동안 현재 %s에만 적용됩니다.{/}				
-UI_20151224_001969	Only apply to %s during %s {nl} and delete %s from inventory.{/}	사용한 %s 인벤토리에서{nl}사라지며 현재 %s에만 적용됩니다.{/}				
+UI_20151224_001968	Removes the %s from{nl}your inventory, providing benefits for %s{nl}for this %s.{/}	사용한 %s 인벤토리에서 사라지며{nl}%s동안 현재 %s에만 적용됩니다.{/}				
+UI_20151224_001969	Removes the %s{nl}from your inventory and applies to this %s.{/}	사용한 %s 인벤토리에서{nl}사라지며 현재 %s에만 적용됩니다.{/}				
 UI_20151224_001970	The duration of your Token can be seen in Character Settings.	캐릭터 설정창에서 잔여시간을 확인하실 수 있습니다.{/}				
 UI_20151224_001971	{@st59}Close{/}	{@st59}TP SHOP을 닫습니다{/}				
 UI_20151224_001972	{@st43}{s18}Preview & Purchase	{@st43}{s18}미리보기 및 구매				
@@ -2094,7 +2094,7 @@ UI_20160224_002093	{@st59b}Instanced Dungeons{nl}{@st59s}Content where your grou
 UI_20160224_002094	{@st59}Close{/}	{@st59}인스턴스 던전을 닫습니다{/}				
 UI_20160224_002095	{@st59}Show/Do not show{/}	{@st59}보이기/안보이기{/}				
 UI_20160224_002096	{@st45tw2}Queuing Time{/}	{@st45tw2}대기 시간{/}				
-UI_20160224_002097	Bid	입찰				
+UI_20160224_002097	Bid	입찰	ETC_20150317_002986	Join	참가	
 UI_20160224_002098	Remaining Bidding Time	남은 입찰 시간				
 UI_20160224_002099	Item Dice	아이템 주사위				
 UI_20160224_002100	{@st42}%s Benefits{/}	{@st42}%s 혜택{/}				
@@ -2244,7 +2244,7 @@ UI_20160718_002243	{@st66b}Apply Dead Parts of Small and Medium sized Monsters	{
 UI_20160718_002244	{@st59}Shows dead parts of defeated monsters.{/}	{@st59}몬스터 처치시 파편을 표시합니다.{/}				
 UI_20160718_002245	{@st66b}Show Character Silhouettes{/}	{@st66b}캐릭터 실루엣 적용{/}	UI_20160425_002180	{@st66b}Apply Character Silhouettes	{@st66b} 캐릭터 실루엣 적용	
 UI_20160718_002246	{@st59}Characters hidden behind the background are shown in silhouettes.{/}	{@st59}캐릭터가 배경 뒤에 있을 때 실루엣으로 표시합니다.{/}				
-UI_20160718_002247	Do you want to use this %s?{/}	%s 을 사용하시겠습니까?{/}	UI_20151224_001958	Do you want to use this %s?{/}	%s 아이템을 사용하시겠습니까?{/}	
+UI_20160718_002247	Use %s?{/}	%s 을 사용하시겠습니까?{/}	UI_20151224_001958	Do you want to use this %s?{/}	%s 아이템을 사용하시겠습니까?{/}	
 UI_20160718_002248	Unable to Use :	사용제한 : %s				
 UI_20160718_002249	Day Hour Minute Second	일시분초				
 UI_20160718_002250	{@st42b}Siauliai{/}	{@st42b}샤울레이{/}				
@@ -2255,7 +2255,7 @@ UI_20160811_002254	{@st66b18}※ The item is consumed when you change name.{/}	{
 UI_20160811_002255	{@st42}Show Login Notifications	{@st42}접속 알림 표시				
 UI_20160811_002256	{@white_16_ol}Guild Member{/}	{@white_16_ol}길드원{/}				
 UI_20160811_002257	{@white_16_ol}Friend{/}	{@white_16_ol}친구{/}				
-UI_20160811_002258	{@st66d}{s18}{#FFFF18}[%s]{/}{nl}{@st66d}{s18}{#FFFFFF}Upon equip, one star will be removed{/}	{@st66d}{s18}{#FFFF18}[ %s ]{/} {@st66d}{s18}{#FFFFFF} 제거 시{nl}카드 레벨이 한단계 하락합니다.{/}				
+UI_20160811_002258	{@st66d}{s18}{#FFFF18}[%s]{/}{nl}{@st66d}{s18}{#FFFFFF}Upon removal, one star will be lost.{/}	{@st66d}{s18}{#FFFF18}[ %s ]{/} {@st66d}{s18}{#FFFFFF} 제거 시{nl}카드 레벨이 한단계 하락합니다.{/}				
 UI_20160811_002259	{@st66b}Removable Effect{/}	{@st66b}제거 되는 효과{/}				
 UI_20160811_002260	None.	없음.				
 UI_20160811_002261	{@st41b}Unequip{/}	{@st41b}해제하기{/}				
@@ -2396,9 +2396,9 @@ UI_20161005_002395	{@st42b}Open Portal	{@st42b}포탈 열기
 UI_20161005_002396	{@st66b}Portal Cooldown{/}	{@st66b}포탈 재사용 대기시간{/}				
 UI_20161010_002397	{@st66d_y}{s20}All{/}	{@st66d_y}{s20}총{/}				
 UI_20161107_002398	{@st43}Exchange List{/}	{@st43}교환 목록{/}				
-UI_20161107_002399	{@st41b}Total Medal Consumed : {/}	{@st41b}총 소비 메달 : {/}				
+UI_20161107_002399	{@st41b}Medals : {/}	{@st41b}총 소비 메달 : {/}				
 UI_20161107_002400	{@st41b}Total Medal Obtained : {/}	{@st41b}총 획득 메달 : {/}				
-UI_20161107_002401	Do you wish to spend medal for the item?	메달을 위 아이템으로 교환하시겠습니까?				
+UI_20161107_002401	Do you wish to spend medals for the items?	메달을 위 아이템으로 교환하시겠습니까?				
 UI_20161107_002402	Once exchanged, you cannot revert it.	교환 시 원래의 아이템으로 되돌릴 수 없습니다.				
 UI_20161107_002403	Do you wish to exchange the item for medal?	해당 아이템을 메달로 교환하시겠습니까?				
 UI_20161107_002404	Exchanging the purchased back to medal might cause some loss due to the exchange rate.	구매한 아이템을 메달로 재교환 시 교환율의 불이익이 발생할 수 있습니다.				
@@ -2455,7 +2455,7 @@ UI_20161121_002454	Enter Dungeon	던전 입장
 UI_20161121_002455	%s/%s	%s/%s회				
 UI_20161121_002456	Main Obtainable Equipment	대표 획득 장비				
 UI_20161121_002457	{@st66b}Auto Match{nl}Re-Enter	{@st66b}자동매칭{nl}재입장				
-UI_20161121_002458	Entering the place previously matched.	이전에 매칭된 곳으로 입장합니다.				
+UI_20161121_002458	Re-entering the location previously matched to.	이전에 매칭된 곳으로 입장합니다.				
 UI_20161121_002459	Auto Match	자동매칭				
 UI_20161121_002460	Main Monster	대표 등장 몬스터				
 UI_20161121_002461	Waiting for the participation from the party members.{nl}A message will be sent out to players in the appropriate level bracket.	파티원의 참여를 기다립니다.{nl}레벨대가 맞는 파티원에게는 메세지가 전송됩니다.				
@@ -2650,8 +2650,8 @@ UI_20170420_002649	You can store tradable items.{nl}Silver storage is available 
 UI_20170420_002650	{@st41b}This cube cannot be reopened.{/}	{@st41b}한번 더 열기를 할 수 없는 큐브입니다.{/}				
 UI_20170420_002651	{@st41}Open Costume Cube	{@st41}코스튬 큐브  열기				
 UI_20170420_002652	{@st66b}Use to obtain a costume.{/}	{@st66b}코스튬을 얻을 수 있습니다.{/}				
-UI_20170510_002653	* After the reset, you will receive attribute points{nl}equivalent to the level of your attributes prior to the reset.	* 초기화 전 올린 특성의 레벨은{nl}초기화 후 특성 포인트를 돌려드립니다.	UI_20161221_002520	* Attribute levels taken before the reset{nl}can be learned again at no cost after the reset.	* 초기화 전 올린 특성의 레벨은{nl}초기화 후 다시 올릴 경우 실버가 소모되지 않습니다.	
-UI_20170510_002654	* Class EXP Cards equivalent to the last Class Level{nl}you achieved will be sent to your inventory.	* 마지막 달성한 클래스 레벨을 확인해 {nl} 그에 해당하는 클래스 경험치 카드를 인벤토리로 지급합니다.	UI_20161221_002521	* EXP cards equivalent to the last Rank to have achieved{nl}	* 마지막 달성한 	
+UI_20170510_002653	* After the reset, you will receive attribute points{nl}equivalent to the level of your attributes prior to the reset.	* 초기화 전 올린 특성의 레벨은{nl}초기화 후 특성 포인트를 돌려드립니다.				
+UI_20170510_002654	* Class EXP Cards equivalent to the last Class Level{nl}you achieved will be sent to your inventory.	* 마지막 달성한 클래스 레벨을 확인해 {nl} 그에 해당하는 클래스 경험치 카드를 인벤토리로 지급합니다.				
 UI_20170615_002655	{@st42b}Open Leticia's Secret Cube X %s	{@st42b}레티샤 큐브 X %s 열기	UI_20161108_002446	{@st42b}Open Leticia's Secret Cube X %s	{@st42b}레티샤의 비밀 큐브 X %s 열기	
 UI_20170615_002656	{@st43}{s22}Recipe Cube{/}	{@st43}{s22}레시피 큐브{/}				
 UI_20170615_002657	{@st41}Select a recipe and confirm{/}	{@st41}레시피를 선택 후 확인을 눌러주세요{/}				
@@ -2749,8 +2749,8 @@ UI_20170912_002748	Class Points %s	클래스 점수  %s점
 UI_20170912_002749	Team Level %s	팀 레벨 %s				
 UI_20170912_002750	Exploration	탐험				
 UI_20170912_002751	%s % Explored	총 탐사율 %s %				
-UI_20170912_002752	- Recommended level	- 권장레벨				
-UI_20170912_002753	- Exploration	- 탐색율				
+UI_20170912_002752	#NAME?	- 권장레벨				
+UI_20170912_002753	#NAME?	- 탐색율				
 UI_20170912_002754	Type	종류				
 UI_20170912_002755	Acquisition Points %s	획득 점수 %s 점				
 UI_20170912_002756	Acquisition Points %s	획득점수 %s점				
@@ -2927,7 +2927,7 @@ UI_20171128_002926	Check Period	출석 체크 기간
 UI_20171128_002927	* Daily attendance rewards will be automatically sent once per day to the inventory of the first character to access the game.{nl}* Enchant Scroll (14 Days).{nl}* Rewards can only be received during the attendance check period. After this period, no more rewards will be sent.{nl}	* 출석 보상은 1일 1회, 당일 첫 접속한 캐릭터 인벤토리로 자동 지급됩니다.{nl}* 마법 부여 스크롤(14일)을 제외한 모든 아이템은 팀 창고로 이동할 수 있습니다.{nl}* 출석 체크 기간 동안에만 출석 보상을 받을 수 있으며, 기간 경과 시 더 이상 지급되지 않습니다.{nl}				
 UI_20171128_002928	{@st66b18}※ Changing your Team Name with TP are not refundable.{/}	{@st66b18}※이름 변경에 사용된 TP는 환불되지 않습니다.{/}	UI_20151224_001847	{@st66b18}※ Purchases made with TP are not refundable.{/}	{@st66b18}※구매에 사용된 TP는 환불되지 않습니다.{/}	
 UI_20171128_002929	Size%s	크기: %s				
-UI_20171128_002930	{@st42b}Check	{@st42b}확인				
+UI_20171128_002930	{@st42b}Confirm	{@st42b}확인				
 UI_20171128_002931	Update Guild Storage.	현재 길드 보관함을 갱신합니다.				
 UI_20171128_002932	ⓘ Spot rewards are %s every week.{nl}ⓘ The rewards include  	ⓘ 점령 보상은 매주 %s 지급됩니다.{nl}ⓘ 점령 보상금은 전 주 마켓 수수료 중에서 	UI_20170912_002852	ⓘ Spot rewards are %s every week.{nl}ⓘ The rewards include  	ⓘ 점령 보상은 매주 %s됩니다.{nl}ⓘ 점령 보상금은 전 주 마켓 수수료 중에서 	
 UI_20171128_002933	 of your Market fees of the previous week.{nl}ⓘ Spot rewards are delivered as Guild War items.{nl}ⓘ The maximum possible amount rewarded is %s hundred million Silver.{nl}ⓘ Please check our official website for more information.	만큼 지급됩니다.{nl}ⓘ 점령 보상금은 콜로니전 기념 주화로 환산되어 지급됩니다.{nl}ⓘ 점령 보상금으로 지급되는 실버는 상한선이 존재하며, 상한선은 %s억입니다.{nl}ⓘ Beta에 지급되는 점령 보상 및 지급 일정은 위에 명시된 내용과 다를 수 있으며, 홈페이지 내 공지사항을 통해 확인 바랍니다.	UI_20170912_002853	 of your Market fees of the previous week.{nl}ⓘ Spot rewards are delivered as Copper Bars.{nl}ⓘ The maximum possible amount rewarded is %s hundred million Silver.{nl}ⓘ Please check our official website for more information.	만큼 지급됩니다.{nl}ⓘ 점령 보상금은 동괴로 환산되어 지급됩니다.{nl}ⓘ 점령 보상금으로 지급되는 실버는 상한선이 존재하며, 상한선은 %s억입니다.{nl}ⓘ Beta에 지급되는 점령 보상 및 지급 일정은 위에 명시된 내용과 다를 수 있으며, 홈페이지 내 공지사항을 통해 확인 바랍니다.	
@@ -2984,3 +2984,81 @@ UI_20180115_002983	{@st66d_y}Items will become untradable{/}	{@st66d_y}거래 �
 UI_20180115_002984	{@st42}All items will remain tradable (Trade YES, Team Storage YES){/}	{@st42}거래 후 모든 아이템 팀 창고 이동 및 거래 가능{/}	UI_20160811_002269	{@st42}The item in question will remain tradable after the trade{/}	{@st42}거래 후 장비 아이템 거래 가능{/}	
 UI_20180115_002985	{@st66d}The following items will become{nl}  {@st66d_y}untradable (Trade NO, Team Storage NO){/}.{/}	{@st66d}아래 아이템이{nl}  {@st66d_y}팀 창고 이동 및 거래 불가{/} 상태가 됩니다.{/}	UI_20170726_002661	{@st66d}If at least one player is not a Token user,{nl}after the trade the item will become untradable.{/}	{@st66d}한 명 이라도 토큰을 사용하지 않으면{nl} 교환 후 아이템이 거래 불가 상태가 됩니다.{/}	
 UI_20180115_002986	{@st42}Untradable Items (Trade NO, Team Storage NO){/}	{@st42}팀 창고 이동 및 거래 속성이 변경되는 아이템 목록{/}	UI_20160811_002274	{@st42}List of items that will become untradable after the trade{/}	{@st42}거래 속성이 변경되는 아이템 목록{/}	
+UI_20180208_002987	{@st59}Close{/}	{@st59}전직 정보 창을 닫습니다{/}	UI_20150317_000086	{@st59}Close{/}	{@st59}클래스 정보 창을 닫습니다{/}	
+UI_20180208_002988	Acquired Item	획득 아이템				
+UI_20180208_002989	Server	서버				
+UI_20180208_002990	Character Name	캐릭터명				
+UI_20180208_002991	Reason	사유				
+UI_20180208_002992	{@st43}{s24}Report Problematic Player	{@st43}{s24}불량유저 신고				
+UI_20180208_002993	{@st41b}Report	{@st41b}신고				
+UI_20180208_002994	Report.	신고합니다.				
+UI_20180208_002995	Cancel.	취소합니다.				
+UI_20180208_002996	{@st59b}Item Transcendence{nl}{@st59s}- Enhances an item's performance in a way different from the anvil enhancement{nl}- Transcendables : Weapon, Armor, Accessory{nl}- Transcendence Chance = Amount of Materials / Required Maximum{nl}- If successful, Transcendence level increases by 1 (max. 10){nl}- If failed, Transcendence level along with potential decrease by 1 (Transcendence level does not go below 1){nl}- Transcended items cannot be traded{/}	{@st59b}아이템 초월{nl}{@st59s}- 모루 강화와는 다른 아이템 성능 강화{nl}- 초월 가능 장비 : 무기, 방어구, 장신구{nl}- 초월 성공 확률 = 넣은 재료 개수 / 최대 필요 재료 개수{nl}- 성공 시, 초월이 1단계 상승(최대 10단계){nl}- 실패 시, 초월과 포텐셜이 1단계 하락(초월은 1단계 이하로 떨어지지 않음){nl}- 초월시킨 장비는 거래 속성이 팀 창고 이동 및 거래 불가로 변경됨{/}	UI_20161214_002494	{@st59b}Item Transcendence{nl}{@st59s}- Enhances an item's performance in a way different from the anvil enhancement{nl}- Transcendables : Weapon, Armor, Accessory{nl}- Transcendence Chance = Amount of Ingredients / Required Minimum{nl}- If successful, Transcendence level increases by 1(Max. 10){nl}- If failed, Transcendence level along with potential by 1(Transcendence level does not go below 1){nl}- Transcended Item Cannot Be Traded{/}	{@st59b}아이템 초월{nl}{@st59s}- 모루 강화와는 다른 아이템 성능 강화{nl}- 초월 가능 장비 : 무기, 방어구, 장신구{nl}- 초월 성공 확률 = 넣은 재료 개수 / 최대 필요 재료 개수{nl}- 성공 시, 초월이 1단계 상승(최대 10단계){nl}- 실패 시, 초월과 포텐셜이 1단계 하락(초월은 1단계 이하로 떨어지지 않음){nl}- 초월시킨 장비는 거래 제한으로 변경됨{/}	
+UI_20180208_002997	Transcendence Success Chance 100%	초월 성공률 100%				
+UI_20180208_002998	*Transcendence could fail if success rate is not 100%.{nl}Potential 	* 초월 성공률이 100%가 아닐 경우 실패 할 수도 있습니다. {nl}실패시 포텐셜이 소모됩니다.				
+UI_20180208_002999	Extract Blessed Shard	축복받은 조각 추출				
+UI_20180208_003000	{@st59b}Extract Blessed Shard{nl}{@st59s}- Extract Blessed Shard from Transcended item{nl}- Material for Extracting: Hammer of Dismantlement.{nl}- Extracting Blessed Shards will delete the item, but retain part of the Blessed Stone as Blessed Shards.{nl} :90% of Blessed Stone used to transcend can be returned.{nl}- Your item must be transcended to at least stage 2 in order to extract the shards.{/}	{@st59b}축복받은 조각 추출{nl}{@st59s}- 초월아이템에서 축복받은 조각 추출{nl}- 축복받은 조각 추출 재료 : 분해의 망치{nl}- 축복받은 조각 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 축복받은 조각으로 되돌려 받을 수 있습니다. {nl}   : 초월에 사용된 축복석의 90%를 환급 받을 수 있습니다.{nl}- 추출은 초월 2단계이상부터 사용할 수 있습니다.{/}	UI_20170313_002552	{@st59b}Blessed Gem Extraction{nl}{@st59s}- Extracts Blessed Gems from transcended items.{nl}- Materials needed: Hammer of Dismantlement.{nl}- Extracting Blessed Gems will delete the item, but retain part of the gems. {nl}   : You will receive 20% to 90% of the Blessed Gems, depending on the item's transcendence stage and current potential. {nl}- Your item must be transcended to at least stage 2 in order to extract the gems.{/}	{@st59b}축복석 추출{nl}{@st59s}- 초월아이템에서 축복석 추출{nl}- 축복석 추출 재료 : 분해의 망치{nl}- 축복석 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 되돌려 받을 수 있습니다. {nl}   : 현재 초월 단계와 잔여 포텐셜에 따라 최소 20% ~ 최대 90%의 초월석을 돌려받습니다. {nl}- 추출은 초월 2단계이상부터 사용할 수 있습니다.{/}	
+UI_20180208_003001	Blessed Shard Extraction Result	축복받은 조각 추출 결과	UI_20160811_002293	Extraction Results	축복석 추출 결과	
+UI_20180208_003002	{@st43b}{s18}Applied Effect{/}	{@st43b}{s18}적용효과{/}				
+UI_20180208_003003	{@st43b}{s20}Applied Effect{/}	{@st43b}{s20}적용효과{/}				
+UI_20180208_003004	{@st59}Show Monster Card Apply Option{/}	{@st59}몬스터 카드 적용 옵션을 봅니다{/}				
+UI_20180208_003005	*You cannot rank down if you have{nl}unused Rank Cards or Class EXP Cards.	* 초기화 후 사용하지 않은 랭크 카드, 클래스 경험치 복구 카드가{nl} 있을 경우 랭크 다운을 할 수 없습니다.				
+UI_20180208_003006	*Common attributes such as Weapon Swap will also be reset,{nl}and attribute points will be returned.	* 초기화 시 무기 스왑과 같은 공용 특성도 초기화 되며,{nl}이때 투자한 특성 포인트는 반환됩니다.				
+UI_20180208_003007	{@st43}{s22}Add Socket{/}	{@st43}{s22}소켓 추가{/}				
+UI_20180208_003008	{@st59}Cancel{/}	{@st59}사용을 취소합니다{/}				
+UI_20180208_003009	{@st41}{s20}Current Sockets:{@st43} %s / {@st43}%s	{@st41}{s20}현재 소켓 현황 :{@st43} %s / {@st43}%s				
+UI_20180208_003010	{@st41}{s20}New Socket Price: %s	{@st41}{s20}소켓 추가 가격 : %s				
+UI_20180208_003011	{@st41b}Add Socket{/}	{@st41b}소켓 추가{/}				
+UI_20180208_003012	{@st59}Add Socket.{/}	{@st59}소켓을 추가 합니다.{/}				
+UI_20180208_003013	{@st59}Advancement Info{/}	{@st59}전직 정보{/}				
+UI_20180208_003014	{@st66b}Show Drop Item Name{/}	{@st66b}드롭 아이템 이름 표시{/}				
+UI_20180320_003015	{img icon_item_silver 24 24}{@st41b}Consume %s Silver{nl}Unequip card without the level decrease{/}	{img icon_item_silver 24 24}{@st41b}%s실버 소모{nl}레벨 감소없이 카드 해제하기{/}	UI_20170925_002922	{img icon_item_tospoint 24 24}{@st41b}Consume 0 TP{nl}Unequip card without the loss of a star{/}	{img icon_item_tospoint 24 24}{@st41b}0TP 소모{nl}별 감소없이 카드 해제하기{/}	
+UI_20180320_003016	Level 1 cards do not consume Silver.	1레벨 카드는 실버가 소모되지 않습니다.	UI_20161214_002484	Level 1 cards do not consume 5TP.	1레벨 카드는 5TP가 소모되지 않습니다.	
+UI_20180320_003017	Recruiting guild quest participants.	길드 퀘스트 참가자를 모집하고 있습니다.	UI_20160224_002073	The guild master is searching for Guild Event participants.	길드 마스터가 길드 이벤트 참가자를 모집하고 있습니다.	
+UI_20180320_003018	{@st43}Enhance Legend Card{/}	{@st43}레전드 카드 강화{/}				
+UI_20180320_003019	{@st43b}{#ffba00}{s20}Success Rate[%s%]{/}	{@st43b}{#ffba00}{s20}성공확률 [%s%]{/}				
+UI_20180320_003020	{@st43b}{s17}{#ffba00}Increases Card Level [{img star_mark 20 20}] by +1 on success.{/}	{@st43b}{s17}{#ffba00}  성공 시 카드의 레벨[★]이 +1 증가합니다.{/}				
+UI_20180320_003021	{@st43b}{s20}Failure Rate [%s%]{/}	{@st43b}{s20}실패확률 [%s%]{/}				
+UI_20180320_003022	{@st43b}{s17}Fodder cards will be deleted and the Legend Card level will not change.{/}	{@st43b}{s17}  실패 시 제물 카드가 소멸되며, 레전드 카드의 레벨은 유지됩니다.{/}				
+UI_20180320_003023	{@st43b}{#898989}{s20}Destruction Rate[%s%]{/}	{@st43b}{#898989}{s20}파괴확률 [%s%]{/}				
+UI_20180320_003024	{@st43b}{#898989}{s17}The Legend Card and fodder cards will be deleted upon destruction.{/}	{@st43b}{#898989}{s17}  파괴 시 레전드 카드와 제물 카드가 소멸됩니다.{/}				
+UI_20180320_003025	{@st59}Close{/}	{@st59}레전드 카드 강화 UI를 닫습니다{/}				
+UI_20180320_003026	Time remaining	남은 참가 시간	UI_20160224_002098	Remaining Bidding Time	남은 입찰 시간	
+UI_20180320_003027	Acquire random	랜덤 획득	UI_20160224_002099	Item Dice	아이템 주사위	
+UI_20180320_003028	{@st59}Personal Shops{/}	{@st59}개인 상점{/}				
+UI_20180320_003029	{@st59}Fishing{/}	{@st59}낚시{/}				
+UI_20180320_003030	Search monster name and press Enter	몬스터 이름 검색 후 엔터				
+UI_20180320_003031	{@st66b}See more	{@st66b}더보기				
+UI_20180320_003032	Qtt to add (count)	추가할 양(count)				
+UI_20180320_003033	Search item name and press Enter	아이템 이름 검색 후 엔터				
+UI_20180320_003034	Search item to craft and press Enter	제작할 아이템 이름 검색 후 엔터				
+UI_20180320_003035	Search instanced dungeon name and press Enter	인던 이름 검색 후 엔터				
+UI_20180320_003036	{@st42}Automatic	{@st42}자동				
+UI_20180320_003037	{@st42}Add	{@st42}추가				
+UI_20180320_003038	{@st42}Send	{@st42}전송				
+UI_20180320_003039	{@st42}Reset	{@st42}초기화				
+UI_20180320_003040	Failed to start the game.	게임 시작에 실패했습니다.				
+UI_20180320_003041	(Error Code: %s)	(에러 코드: %s)				
+UI_20180320_003042	{img notice_br_reason 16 16}{@st99w16}Reason	{img notice_br_reason 16 16}{@st99w16} 발생 원인				
+UI_20180320_003043	This could be the reason.{nl}This could also be the reason.	원인은 이것 때문일 수 있습니다.{nl}원인은 이것 때문일 수도 있습니다.				
+UI_20180320_003044	{img notice_br_solution 16 16}{@st99w16}Solution	{img notice_br_solution 16 16}{@st99w16} 해결 방법				
+UI_20180320_003045	Try this.{nl}Try that.	이렇게 해보십시오.{nl}저렇게 해보십시오.				
+UI_20180320_003046	{@st68}Check	{@st68}확인				
+UI_20180402_003047	{img notice_br_link 16 16}{@st99w16}Related Link	{img notice_br_link 16 16}{@st99w16} 관련 링크				
+UI_20180409_003048	{@st66b}Draw Shadow	{@st66b}그림자 그리기				
+UI_20180413_003049	{@st43b}{s18}Benefits (Coming Soon){/}	{@st43b}{s18}점령 혜택(준비중){/}	UI_20170912_002847	{@st43b}{s18}Spot Benefits{/}	{@st43b}{s18}점령 혜택{/}	
+UI_20180413_003050	ⓘ Please see our official website at treeofsavior.com for more information on Territory Wars rewards and benefits during the beta testing period.	ⓘ Beta로 진행되는 길드 콜로니전의 점령 혜택은 홈페이지 내 공지사항을 통해 확인 바랍니다.				
+UI_20180418_003051	{@st47}{s18}See Processed Equipment	{@st47}{s18}가공된 장비 보기				
+UI_20180418_003052	{@st42}Equippable Titles [%s]{/}	{@st42}장착 가능한 칭호 [%s]{/}				
+UI_20180418_003053	{@st42}{#00fec5}Current Title Buff Stage	{@st42}{#00fec5}현재 칭호 버프 단계				
+UI_20180418_003054	{@st42}Titles Needed for Next Stage	{@st42}다음단계까지 필요한 칭호{/}				
+UI_20180418_003055	{@st42b}Stage %s{/}	{@st42b}%s단계{/}				
+UI_20180418_003056	{@st66b}See Next Stage Effects{/}	{@st66b}다음단계 효과 보기{/}				
+UI_20180418_003057	{@st59}Close transcendence scroll window.{/}	{@st59}초월 스크롤 창을 닫습니다.{/}				
+UI_20180418_003058	{@st41}{s20}Transcendence Scroll{/}	{@st41}{s20}초월 스크롤{/}				
+UI_20180418_003059	Transcendence Value: %s	초월 수치: %s				
+UI_20180418_003060	Success Rate: %s%	성공 확률: %s%				
+UI_20180418_003061	{@st66}Cannot use with transcended equipment items.{nl}Using it will change the item to Transcendence Stage %s.{/}	{@st66}이미 초월된 장비에는 사용할 수 없으며{nl}사용시 %s초월로 변경됩니다.{/}				
+UI_20180418_003062	{@st41b}{s20}Transcendence	{@st41b}{s20}초월				
+UI_20180418_003063	{@st41b}{s20}Confirm	{@st41b}{s20}확인				
+UI_20180426_003064	{@st59}Back{/}	{@st59}등 코스튬{/}				
