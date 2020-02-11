@@ -1568,7 +1568,7 @@ QUEST_LV_0300_20160310_001567	Although you've brought the research materials, Ga
 QUEST_LV_0300_20160310_001568	Find the cleanup box, read the manual and arrange the research materials. 	정리 상자를 찾아 설명서를 읽고 연구 물품 정리
 QUEST_LV_0300_20160310_001569	Gatre feels scared because if he acts himself, he is afraid that he may get attacked by the monsters again.  Find the cleanup box on behalf of Gatre and read the manual to arrange the objects.	가트레는 자신이 나섰다간 또 몬스터에게 당할 것 같다며 무서워하고 있습니다. 가트레를 대신해서 정리 상자를 찾은 후 설명서를 읽고 물건을 정리해주세요.
 QUEST_LV_0300_20160310_001570	Report to Gatre	가트레에게 보고
-QUEST_LV_0300_20160310_001571	In the manual, it is written that Gatre is secretly asking for the help. Go back to Gatre and and tell him that you've arranged the reseach materials after reading it thoroughly. 	설명서에는 가트레가 은밀하게 도움을 요청하는 글이 적혀있었습니다. 가트레에게 돌아가서 설명서를 확실하게 읽고 연구 물품을 정리했다고 말해주세요.
+QUEST_LV_0300_20160310_001571	In the manual, it is written that Gatre is secretly asking for the help. Go back to Gatre and and tell him that you've arranged the research materials after reading it thoroughly. 	설명서에는 가트레가 은밀하게 도움을 요청하는 글이 적혀있었습니다. 가트레에게 돌아가서 설명서를 확실하게 읽고 연구 물품을 정리했다고 말해주세요.
 QUEST_LV_0300_20160310_001572	It seems that Gatre understood the fact that there was request for the rescue that was written on the manual. Talk with Gatre again.	설명서에 적힌 구조 요청글을 봤다는 사실을 가트레가 알아들은 것 같습니다. 가트레와 다시 이야기해보세요.
 QUEST_LV_0300_20160310_001573	Check the abandoned document at Menka Knoll	멘카 둔덕의 버려진 문서 확인
 QUEST_LV_0300_20160310_001574	Gatre asked you to look for the research materials that were thrown away by mistakes while reading Sarma's face. If you look at the abandoned document at Menka Knoll, you would understand whether what Gatre told you is true.	가트레는 사르마의 눈치를 살피면서 실수로 버린 연구 자료를 찾아달라고 합니다. 멘카 둔덕에 버려진 문서를 살펴 보면 가트레의 말이 사실인지 알아볼 수 있을 것 같습니다.
@@ -4956,7 +4956,7 @@ QUEST_LV_0300_20161005_004955	I have no memory of where all the gems are nor the
 QUEST_LV_0300_20161005_004956	Either activating secret devices to attack demons... {nl}Or destroy demon devices or magic circles. Do whatever you seem fit.{nl}	비밀 장치들을 작동해서 마족을 공격하든지.. {nl}마족의 장치나 마법진 같은 것을 전부 파괴하던지 네가 할 수 있는 일을 해줘.{nl}
 QUEST_LV_0300_20161005_004957	Huh?{nl}A human... here?{nl}	어? {nl}이런 곳에 사람이..{nl}
 QUEST_LV_0300_20161005_004958	Are you...{nl}...the Revelator?	혹시.. {nl}계시자?
-QUEST_LV_0300_20161005_004959	{nl}It's you!{nl}I and the other Kupoles have all heard about you.	{nl}맞군요! {nl}당신의 이야기는 저희 큐폴들도 많이 듣고 있답니다.
+QUEST_LV_0300_20161005_004959	{nl}It's you!{nl}The other Kupoles and I have all heard about you.	{nl}맞군요! {nl}당신의 이야기는 저희 큐폴들도 많이 듣고 있답니다.
 QUEST_LV_0300_20161005_004960	I'm investigating the Three-Layered Castle Wall with the other Kupoles.{nl}	저는 다른 큐폴들과 함께 삼중성벽을 조사하고 있어요.{nl}
 QUEST_LV_0300_20161005_004961	The wall was built a millennium ago after the prediction of Goddess Laima.{nl}We didn't know what it meant then...{nl}	이 삼중성벽은 천년 쯤 전에 라이마 여신의 예언에 따라 지어졌어요.{nl}그때는 그 의미를 몰랐지만..{nl}
 QUEST_LV_0300_20161005_004962	But I started to wonder about the true purpose of the wall...{nl}And so now we're looking for clues about the goddess' prediction.	어쩌면 이 삼중성벽에 중요한 역할이 있지 않았을까.. 하는 생각이 들었어요.{nl}그래서 라이마 여신의 예언에 관련된 단서를 찾고 있지요.
@@ -6769,8 +6769,8 @@ QUEST_LV_0300_20161005_006768	I am ready.	실력에 자신있다고 한다
 QUEST_LV_0300_20161005_006769	I think I need some more time.	아직은 이른 것 같다고 한다
 QUEST_LV_0300_20161005_006770	De-Contruction  [Cannoneer Advancement]	구조물 파괴[캐노니어 전직]
 QUEST_LV_0300_20161005_006771	Don't worry. I will do it.	무엇이든 맡겨달라고 한다
-QUEST_LV_0300_20161005_006772	If it something dangerous, I can't do it.	위험한 일이라면 곤란하다고 한다
-QUEST_LV_0300_20161005_006773	Fast ande Precise [Musketeer Advancement]	신속하고 정확하게[머스킷티어 전직]
+QUEST_LV_0300_20161005_006772	If it is something dangerous, I can't do it.	위험한 일이라면 곤란하다고 한다
+QUEST_LV_0300_20161005_006773	Fast and Precise [Musketeer Advancement]	신속하고 정확하게[머스킷티어 전직]
 QUEST_LV_0300_20161005_006774	In the Deep Forest [Hackapell Advancement]	깊고 깊은 숲속에는[하카펠 전직]
 QUEST_LV_0300_20161005_006775	Leave it up to me.	걱정말고 맡기라고 말한다
 QUEST_LV_0300_20161005_006776	Archery Test [Mergen Advancement]	궁술 실력 알아보기[메르겐 전직]
